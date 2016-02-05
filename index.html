@@ -5,7 +5,7 @@ layout: default
 {% for post in site.posts %}
 <article class="panel">
   <header class="panel__header">
-    <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
+    <h1><a href="{{ post.link }}" rel="nofollow">{{ post.title }}</a></h1>
     <!-- <p class="categories">
       <a href="">Справочники, обучение, книги</a>
       <a href="">Справочники</a>
@@ -16,7 +16,7 @@ layout: default
       {{ post.excerpt }}
     </div>
     <p class="panel__links">
-      <a href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
+      <a href="{{ post.link }}" rel="nofollow">{{ post.link }}</a>
     </p>
   </div>
   <!-- <footer class="panel__footer">
