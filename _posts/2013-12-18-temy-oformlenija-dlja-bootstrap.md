@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Платные темы оформления <a href="/search/id2">Bootstrap</a>. Отличные!</p>
+<p>Платные темы оформления Bootstrap. Отличные!</p>

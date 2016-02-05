@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Форк <a href="/search/id2">Bootstrap</a>. Добавлены JS-компоненты и CSS.</p>
+<p>Форк Bootstrap. Добавлены JS-компоненты и CSS.</p>

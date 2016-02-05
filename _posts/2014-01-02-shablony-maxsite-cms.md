@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Шаблоны <a href="/search/id98">MaxSite CMS</a>. Бесплатно.</p>
+<p>Шаблоны MaxSite CMS. Бесплатно.</p>

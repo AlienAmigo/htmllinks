@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Анимация текста с помощью Javascript и animate.css. Плагин для <a href="/search/id28">jQuery</a>.</p>
+<p>Анимация текста с помощью Javascript и animate.css. Плагин для jQuery.</p>

@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Песочница, он-лайн преобразование <a href="/search/id41">LESS</a> в CSS.</p>
+<p>Песочница, он-лайн преобразование LESS в CSS.</p>

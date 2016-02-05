@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Выбор времени для <a href="/search/id2">Bootstrap</a>.</p>
+<p>Выбор времени для Bootstrap.</p>

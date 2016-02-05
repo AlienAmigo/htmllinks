@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Преобразование CSS в <a href="/search/id41">LESS</a> он-лайн.</p>
+<p>Преобразование CSS в LESS он-лайн.</p>

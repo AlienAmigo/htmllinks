@@ -8,4 +8,4 @@ description:
 keywords:
 ---
 
-<p>Иконочный шрифт (присутствует на <a href="/search/id64">fontello</a>). Адаптирован для использования с <a href="/search/id2">Bootstrap</a>.</p>
+<p>Иконочный шрифт (присутствует на fontello). Адаптирован для использования с Bootstrap.</p>
