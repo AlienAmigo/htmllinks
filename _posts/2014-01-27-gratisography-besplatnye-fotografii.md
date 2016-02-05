@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Gratisography — бесплатные фотографии
-category: clipart
-tags: бесплатно, изображение, картинка, фотография
+category: [clipart]
+tags: [бесплатно, изображение, картинка, фотография]
 link: http://www.gratisography.com/
 description:
 keywords:

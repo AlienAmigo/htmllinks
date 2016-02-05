@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bootstrap CDN — удаленное подключение CSS и JS Bootstrap-а
-category: bootstrap, frameworks
-tags: bootstrap, bootswatch, cdn, font awesome
+category: [bootstrap, frameworks]
+tags: [bootstrap, bootswatch, cdn, font awesome]
 link: http://www.bootstrapcdn.com/
 description:
 keywords:

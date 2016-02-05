@@ -1,8 +1,8 @@
 ---
 layout: post
 title: iCheck — свои флажки и радиокнопки — плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: радиобатон, радиокнопка, стилизация, флажок, форма, чекбокс
+category: [jquery, jquery-plugins, frameworks]
+tags: [радиобатон, радиокнопка, стилизация, флажок, форма, чекбокс]
 link: http://fronteed.com/iCheck/
 description:
 keywords:

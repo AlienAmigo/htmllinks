@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Picjumbo — качественные свободные фотографии
-category: clipart
-tags: бесплатно, клипарт, фотография
+category: [clipart]
+tags: [бесплатно, клипарт, фотография]
 link: http://picjumbo.com/
 description:
 keywords:

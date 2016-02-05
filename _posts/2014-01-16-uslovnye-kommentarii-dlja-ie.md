@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Условные комментарии для IE
-category: reference, guides
-tags: conditional comments, internet explorer, microsoft, баг, браузер, условные комментарии, хак
+category: [reference, guides]
+tags: [conditional comments, internet explorer, microsoft, баг, браузер, условные комментарии, хак]
 link: http://designformasters.info/posts/conditional-comments/
 description:
 keywords:

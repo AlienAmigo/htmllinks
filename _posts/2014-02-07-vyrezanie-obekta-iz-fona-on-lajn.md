@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Вырезание объекта из фона он-лайн
-category: graphics, services
-tags: графика, изображение, картинка, объект, прозрачность, фон, фотография
+category: [graphics, services]
+tags: [графика, изображение, картинка, объект, прозрачность, фон, фотография]
 link: http://clippingmagic.com/
 description:
 keywords:

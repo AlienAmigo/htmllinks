@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Шпаргалка по функциям смягчения анимации
-category: reference, guides
-tags: css, javascript, scss, анимация, смещение, смягчение, функция, шпаргалка
+category: [reference, guides]
+tags: [css, javascript, scss, анимация, смещение, смягчение, функция, шпаргалка]
 link: http://easings.net/ru
 description:
 keywords:

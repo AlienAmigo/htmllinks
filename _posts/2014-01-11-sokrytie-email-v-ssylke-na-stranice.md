@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Сокрытие email в ссылке на странице
-category: generators, services, layouts-generators
-tags: email, почта, скрыть, ссылка
+category: [generators, services, layouts-generators]
+tags: [email, почта, скрыть, ссылка]
 link: http://webdevtools.ru/maillink
 description:
 keywords:

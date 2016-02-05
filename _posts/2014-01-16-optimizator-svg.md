@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Оптимизатор SVG
-category: graphics, services
-tags: svg, оптимизатор
+category: [graphics, services]
+tags: [svg, оптимизатор]
 link: http://petercollingridge.appspot.com/svg-optimiser
 description:
 keywords:

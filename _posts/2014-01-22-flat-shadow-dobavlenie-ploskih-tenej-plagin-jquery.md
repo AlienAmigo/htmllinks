@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Flat Shadow — добавление плоских теней, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, shadow, text, плагин, плоская, тень
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, shadow, text, плагин, плоская, тень]
 link: https://github.com/peachananr/flat-shadow
 description:
 keywords:

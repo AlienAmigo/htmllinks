@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SASSmeister — он-лайн конвертер SASS в CSS
-category: sass, sandbox, preprocessors, services
-tags: css, sass, конвертер, песочница
+category: [sass, sandbox, preprocessors, services]
+tags: [css, sass, конвертер, песочница]
 link: http://sassmeister.com/
 description:
 keywords:

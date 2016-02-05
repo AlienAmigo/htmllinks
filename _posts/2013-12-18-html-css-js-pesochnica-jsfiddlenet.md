@@ -1,8 +1,8 @@
 ---
 layout: post
 title: HTML-CSS-JS-песочница
-category: sandbox, services
-tags: css, html, javascript, песочница
+category: [sandbox, services]
+tags: [css, html, javascript, песочница]
 link: http://jsfiddle.net/
 description:
 keywords:

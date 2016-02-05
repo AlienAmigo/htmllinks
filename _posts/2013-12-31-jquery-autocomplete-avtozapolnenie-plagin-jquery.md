@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jQuery Autocomplete — автозаполнение, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, автозаполнение, плагин, форма
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, автозаполнение, плагин, форма]
 link: http://jquery.bassistance.de/autocomplete/demo/
 description:
 keywords:

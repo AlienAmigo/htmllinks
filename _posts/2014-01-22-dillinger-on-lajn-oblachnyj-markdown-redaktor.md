@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dillinger — он-лайн облачный Markdown-редактор
-category: markdown, preprocessors, other-services, services
-tags: html, Markdown, облако, редактор, текст
+category: [markdown, preprocessors, other-services, services]
+tags: [html, Markdown, облако, редактор, текст]
 link: http://dillinger.io
 description:
 keywords:

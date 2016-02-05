@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS3Ps — плагин Photoshop, конвертирует слои в CSS3
-category: photoshop-plugins, other
-tags: css, photoshop, генератор, макет, плагин, стиль
+category: [photoshop-plugins, other]
+tags: [css, photoshop, генератор, макет, плагин, стиль]
 link: http://css3ps.com/
 description:
 keywords:

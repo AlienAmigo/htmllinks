@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Использование SVG
-category: guides, articles
-tags: svg
+category: [guides, articles]
+tags: [svg]
 link:
 description:
 keywords:

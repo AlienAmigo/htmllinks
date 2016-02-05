@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Grumpicon — PNG-откат для SVG-иконок
-category: svg, generators, services, picture-generators, manuals
-tags: png, svg, генератор, иконка
+category: [svg, generators, services, picture-generators, manuals]
+tags: [png, svg, генератор, иконка]
 link: http://www.grumpicon.com/
 description:
 keywords:

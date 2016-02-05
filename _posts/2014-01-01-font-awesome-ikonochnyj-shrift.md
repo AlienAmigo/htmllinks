@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Font Awesome — иконочный шрифт
-category: services, fonts
-tags: иконка, иконочный шрифт, шрифт
+category: [services, fonts]
+tags: [иконка, иконочный шрифт, шрифт]
 link: http://fortawesome.github.io/Font-Awesome/
 description:
 keywords:

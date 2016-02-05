@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSSarrowplease — генератор треугольников
-category: css-generators, generators, services
-tags: генератор, треугольник, уголок
+category: [css-generators, generators, services]
+tags: [генератор, треугольник, уголок]
 link: http://cssarrowplease.com/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Colrd — палитры, текстуры, цвета, градиенты
-category: clipart, other-services, services
-tags: css, выбор, градиент, подбор, цвет
+category: [clipart, other-services, services]
+tags: [css, выбор, градиент, подбор, цвет]
 link: http://colrd.com/
 description:
 keywords:

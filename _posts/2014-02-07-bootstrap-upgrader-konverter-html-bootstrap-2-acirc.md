@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bootstrap Upgrader — конвертер HTML Bootstrap 2 → 3
-category: bootstrap, frameworks
-tags: bootstrap, html, конвертер
+category: [bootstrap, frameworks]
+tags: [bootstrap, html, конвертер]
 link: http://code.divshot.com/bootstrap3_upgrader/
 description:
 keywords:

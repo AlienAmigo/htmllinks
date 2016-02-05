@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Поддержка и использование CSS3-свойств
-category: reference, guides
-tags: css3, поддержка, пример, справка, стиль
+category: [reference, guides]
+tags: [css3, поддержка, пример, справка, стиль]
 link: http://css3clickchart.com
 description:
 keywords:

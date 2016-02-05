@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Velositey — плагин Photoshop для веб-дизайнеров
-category: photoshop-plugins, other
-tags: photoshop, каркас, модульная сетка, плагин, прототип
+category: [photoshop-plugins, other]
+tags: [photoshop, каркас, модульная сетка, плагин, прототип]
 link: http://velositey.dandkagency.com/
 description:
 keywords:

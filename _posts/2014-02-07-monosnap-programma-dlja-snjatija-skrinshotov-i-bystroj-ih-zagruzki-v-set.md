@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Monosnap — программа для снятия скриншотов и быстрой их загрузки в сеть
-category: organization, other
-tags: аннотация, картинка, скриншот
+category: [organization, other]
+tags: [аннотация, картинка, скриншот]
 link: http://monosnap.com/welcome
 description:
 keywords:

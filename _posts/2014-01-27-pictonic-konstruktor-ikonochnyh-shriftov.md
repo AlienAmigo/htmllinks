@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pictonic — генератор иконочных шрифтов
-category: icons, services, fonts
-tags: генератор, иконка, платно, шрифт
+category: [icons, services, fonts]
+tags: [генератор, иконка, платно, шрифт]
 link: https://pictonic.co/download
 description:
 keywords:

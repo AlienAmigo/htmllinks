@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Real Favicon Generator — генератор фавиконок
-category: icons, services
-tags: генератор, фавиконка
+category: [icons, services]
+tags: [генератор, фавиконка]
 link: http://realfavicongenerator.net/
 description:
 keywords:

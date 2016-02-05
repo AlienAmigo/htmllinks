@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PageSpeed Insights — анализ скорости загрузки страницы и рекомендации по оптимизации
-category: services, testing
-tags: загрузка, оптимизация, скорение, скорость, страница
+category: [services, testing]
+tags: [загрузка, оптимизация, скорение, скорость, страница]
 link: http://developers.google.com/speed/pagespeed/insights/
 description:
 keywords:

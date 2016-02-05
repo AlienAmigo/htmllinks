@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор фоновой картинки
-category: generators, graphics, services, picture-generators
-tags: background, генератор, картинка, узор, фон
+category: [generators, graphics, services, picture-generators]
+tags: [background, генератор, картинка, узор, фон]
 link: http://bgpatterns.com/
 description:
 keywords:

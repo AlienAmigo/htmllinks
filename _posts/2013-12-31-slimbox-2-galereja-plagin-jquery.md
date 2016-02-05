@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Slimbox 2 — галерея, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: lightbox, галерея, изображение, картинка, плагин, просмотр, фотография
+category: [jquery, jquery-plugins, frameworks]
+tags: [lightbox, галерея, изображение, картинка, плагин, просмотр, фотография]
 link: http://www.digitalia.be/software/slimbox2/
 description:
 keywords:

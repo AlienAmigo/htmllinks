@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Социальные плагины Facebook
-category: generators, tools-webmaster, services, layouts-generators, social-buttons
-tags: facebook, кнопка, лайк, социальная
+category: [generators, tools-webmaster, services, layouts-generators, social-buttons]
+tags: [facebook, кнопка, лайк, социальная]
 link: https://developers.facebook.com/docs/plugins
 description:
 keywords:

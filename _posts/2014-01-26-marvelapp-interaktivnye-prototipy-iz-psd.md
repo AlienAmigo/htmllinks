@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MarvelAPP — интерактивные прототипы из PSD
-category: prototype, services
-tags: dropbox, интерактивность, прототип
+category: [prototype, services]
+tags: [dropbox, интерактивность, прототип]
 link: https://marvelapp.com/
 description:
 keywords:

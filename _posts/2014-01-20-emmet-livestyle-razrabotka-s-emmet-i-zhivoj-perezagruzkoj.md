@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Emmet LiveStyle — разработка с Emmet и живой перезагрузкой
-category: services
-tags: emmet, livereload
+category: [services]
+tags: [emmet, livereload]
 link: http://livestyle.emmet.io/
 description:
 keywords:

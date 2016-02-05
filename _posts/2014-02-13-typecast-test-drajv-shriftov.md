@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Typecast — тест-драйв шрифтов
-category: services, fonts
-tags: подбор, сервис, типографика, шрифт
+category: [services, fonts]
+tags: [подбор, сервис, типографика, шрифт]
 link: http://typecast.com
 description:
 keywords:

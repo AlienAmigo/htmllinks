@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Коллекция input pattern
-category: other-services, services, reference, guides
-tags: input, pattern, паттерн, регулярное выражение, справочник
+category: [other-services, services, reference, guides]
+tags: [input, pattern, паттерн, регулярное выражение, справочник]
 link: http://html5pattern.com/
 description:
 keywords:

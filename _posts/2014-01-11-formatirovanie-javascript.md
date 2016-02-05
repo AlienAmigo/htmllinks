@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Форматирование javascript
-category: services, formating
-tags: javascript, js, форматирование, читаемость
+category: [services, formating]
+tags: [javascript, js, форматирование, читаемость]
 link: http://jsbeautifier.org/
 description:
 keywords:

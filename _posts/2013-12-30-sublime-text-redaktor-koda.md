@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sublime Text — редактор кода
-category: other, editors
-tags: sublime text, редактор
+category: [other, editors]
+tags: [sublime text, редактор]
 link: http://www.sublimetext.com/
 description:
 keywords:

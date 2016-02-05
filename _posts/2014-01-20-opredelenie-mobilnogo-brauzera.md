@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Определение мобильного браузера
-category: recipes-javascript, recipes-php, manuals
-tags: Apache, ASP, ASP.NET, C#, ColdFusion, IIS, JavaScript, jQuery, JSP, Lasso, nginx, node.js, Perl, PHP, Python, Rails, браузер, мобильный, переадресация, планшет
+category: [recipes-javascript, recipes-php, manuals]
+tags: [Apache, ASP, ASP.NET, C#, ColdFusion, IIS, JavaScript, jQuery, JSP, Lasso, nginx, node.js, Perl, PHP, Python, Rails, браузер, мобильный, переадресация, планшет]
 link: http://detectmobilebrowsers.com/
 description:
 keywords:

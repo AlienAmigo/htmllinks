@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fuel UX — JS-дополнения для Bootsrap
-category: bootstrap, frameworks
-tags: bootstrap, Checkbox, Combobox, Datagrid, Datepicker, Pillbox, Preloader, Radio, Scheduler, Search, Select, Spinner, Tree, Wizard, дополнение, расширение
+category: [bootstrap, frameworks]
+tags: [bootstrap, Checkbox, Combobox, Datagrid, Datepicker, Pillbox, Preloader, Radio, Scheduler, Search, Select, Spinner, Tree, Wizard, дополнение, расширение]
 link: http://exacttarget.github.io/fuelux/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: markItUp — невизуальный редактор, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: bbcode, html, jquery, markdown, textile, wiki syntax, визуальный редактор, плагин
+category: [jquery, jquery-plugins, frameworks]
+tags: [bbcode, html, jquery, markdown, textile, wiki syntax, визуальный редактор, плагин]
 link: http://markitup.jaysalvat.com/home/
 description:
 keywords:

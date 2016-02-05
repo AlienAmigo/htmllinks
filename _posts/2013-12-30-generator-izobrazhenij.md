@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор изображений
-category: generators, services, picture-generators
-tags: генератор, изображение, картинка, размер
+category: [generators, services, picture-generators]
+tags: [генератор, изображение, картинка, размер]
 link: http://placehold.it/
 description:
 keywords:

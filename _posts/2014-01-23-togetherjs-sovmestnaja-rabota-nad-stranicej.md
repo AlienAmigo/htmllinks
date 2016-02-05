@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TogetherJS — совместная работа над страницей
-category: organization, other, other-services, services
-tags: группа, связь, совместная работа, чат
+category: [organization, other, other-services, services]
+tags: [группа, связь, совместная работа, чат]
 link: https://togetherjs.com/
 description:
 keywords:

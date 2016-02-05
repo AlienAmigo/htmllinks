@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS Hat — плагин Photoshop для верстки
-category: photoshop-plugins, other
-tags: CSS, LESS, photoshop, SASS, SCSS, Stylus, верстка, плагин
+category: [photoshop-plugins, other]
+tags: [CSS, LESS, photoshop, SASS, SCSS, Stylus, верстка, плагин]
 link: http://csshat.com/
 description:
 keywords:

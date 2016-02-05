@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BlackTie — бесплатные качественные темы для Bootstrap
-category: bootstrap, frameworks
-tags: bootstrap, оформтение, стилизация, тема
+category: [bootstrap, frameworks]
+tags: [bootstrap, оформтение, стилизация, тема]
 link: http://www.blacktie.co/
 description:
 keywords:

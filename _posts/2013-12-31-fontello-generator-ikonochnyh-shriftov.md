@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fontello — генератор иконочных шрифтов
-category: icons, services, fonts
-tags: генератор, иконка, иконочный шрифт, шрифт
+category: [icons, services, fonts]
+tags: [генератор, иконка, иконочный шрифт, шрифт]
 link: http://fontello.com/
 description:
 keywords:

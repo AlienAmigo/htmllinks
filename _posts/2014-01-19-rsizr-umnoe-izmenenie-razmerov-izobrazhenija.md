@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Rsizr — умное изменение размеров изображения
-category: graphics, services
-tags: графика, изменение размера, изображение, ресайз, фотография
+category: [graphics, services]
+tags: [графика, изменение размера, изображение, ресайз, фотография]
 link: http://rsizr.com/
 description:
 keywords:

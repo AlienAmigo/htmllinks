@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Checkmycolours — проверка используемых на странице цветов
-category: services, testing
-tags: контраст, проверка, тестирование, цвет
+category: [services, testing]
+tags: [контраст, проверка, тестирование, цвет]
 link: http://www.checkmycolours.com/
 description:
 keywords:

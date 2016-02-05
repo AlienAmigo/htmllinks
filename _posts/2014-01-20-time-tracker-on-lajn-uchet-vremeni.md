@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Time Tracker — он-лайн учет времени
-category: organization, other
-tags: время, минута, период, слежение, тайм-менеждмент, учет
+category: [organization, other]
+tags: [время, минута, период, слежение, тайм-менеждмент, учет]
 link: http://unlayered.com/time/
 description:
 keywords:

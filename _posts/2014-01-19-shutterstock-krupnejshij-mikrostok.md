@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Shutterstock — крупнейший микросток
-category: clipart
-tags: вектор, изображение, картинка, клипарт, микросток, фотография
+category: [clipart]
+tags: [вектор, изображение, картинка, клипарт, микросток, фотография]
 link: http://submit.shutterstock.com/
 description:
 keywords:

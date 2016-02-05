@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSSflow — сниппеты верстки
-category: other-services, services
-tags: css, html, сниппет
+category: [other-services, services]
+tags: [css, html, сниппет]
 link: http://www.cssflow.com/snippets
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Правила и принципы написания CSS
-category: reference, guides
-tags: CSS, инструкция, как писать CSS, написание, правило, принцип
+category: [reference, guides]
+tags: [CSS, инструкция, как писать CSS, написание, правило, принцип]
 link: https://github.com/matmuchrapna/CSS-Guidelines/blob/master/README%20Russian.md
 description:
 keywords:

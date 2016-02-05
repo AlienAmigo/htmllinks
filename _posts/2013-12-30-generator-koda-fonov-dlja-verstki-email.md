@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор кода фонов для верстки email
-category: generators, services, picture-generators
-tags: email, письмо, рассылка, текстура, фон, шаблон
+category: [generators, services, picture-generators]
+tags: [email, письмо, рассылка, текстура, фон, шаблон]
 link: http://backgrounds.cm/
 description:
 keywords:

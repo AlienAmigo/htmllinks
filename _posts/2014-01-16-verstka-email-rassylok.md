@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Верстка email-рассылок
-category: guides, articles
-tags: email, кроссбраузерность, кроссмейлерность, рассылка
+category: [guides, articles]
+tags: [email, кроссбраузерность, кроссмейлерность, рассылка]
 link: http://habrahabr.ru/post/112163/
 description:
 keywords:

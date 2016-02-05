@@ -1,8 +1,8 @@
 ---
 layout: post
 title: RulersGuides.js — линейки и направляющие на странице как в Photoshop
-category: services, testing
-tags: закладка, линейка, направляющая, тестирование
+category: [services, testing]
+tags: [закладка, линейка, направляющая, тестирование]
 link: http://mark-rolich.github.io/RulersGuides.js/
 description:
 keywords:

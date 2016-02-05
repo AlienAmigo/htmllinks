@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Фреймворк jQuery
-category: jquery, frameworks
-tags: jquery, фреймворк
+category: [jquery, frameworks]
+tags: [jquery, фреймворк]
 link: http://jquery.com/
 description:
 keywords:

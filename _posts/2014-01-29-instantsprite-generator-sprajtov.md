@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Instantsprite — генератор спрайтов
-category: generators, services, picture-generators
-tags: css, генератор, спрайт
+category: [generators, services, picture-generators]
+tags: [css, генератор, спрайт]
 link: http://instantsprite.com/
 description:
 keywords:

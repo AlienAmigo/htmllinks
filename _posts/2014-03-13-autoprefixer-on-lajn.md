@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Autoprefixer он-лайн
-category: css-generators, generators, converter, services
-tags: автоподстановка, вендорный префикс, конвертер
+category: [css-generators, generators, converter, services]
+tags: [автоподстановка, вендорный префикс, конвертер]
 link: http://jsfiddle.net/simevidas/udyTs/show/light/
 description:
 keywords:

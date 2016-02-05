@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Siteliner
-category: tools-webmaster, analytics
-tags: seo, анализ, битая ссылка
+category: [tools-webmaster, analytics]
+tags: [seo, анализ, битая ссылка]
 link: http://www.siteliner.com/
 description:
 keywords:

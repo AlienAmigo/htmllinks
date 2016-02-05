@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Блог Сергея Чикуёнка
-category: guides, blogs
-tags: css, emmet, html, javascript, блог, верстка, графика, статья
+category: [guides, blogs]
+tags: [css, emmet, html, javascript, блог, верстка, графика, статья]
 link: http://chikuyonok.ru/
 description:
 keywords:

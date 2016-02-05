@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Версии Internet explorer в формате VHD
-category: browsers
-tags: internet explorer, браузер, виртуальная машина, тестирование
+category: [browsers]
+tags: [internet explorer, браузер, виртуальная машина, тестирование]
 link: http://www.microsoft.com/en-us/download/details.aspx?id=11575
 description:
 keywords:

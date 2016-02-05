@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Инструменты для работы с LESS
-category: less, preprocessors
-tags: less, инструмент, препроцессор
+category: [less, preprocessors]
+tags: [less, инструмент, препроцессор]
 link: http://lesscss.org/usage/#online-less-compilers
 description:
 keywords:

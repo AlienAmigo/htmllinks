@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Методология использования SVG и управления им через CSS
-category: guides, articles
-tags: svg, иконка, кроссбраузерность
+category: [guides, articles]
+tags: [svg, иконка, кроссбраузерность]
 link: http://habrahabr.ru/post/167085/
 description:
 keywords:

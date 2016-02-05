@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IcoMoon — генератор иконочных шрифтов
-category: services, fonts
-tags: генератор, иконка, иконочный шрифт, редактор, шрифт
+category: [services, fonts]
+tags: [генератор, иконка, иконочный шрифт, редактор, шрифт]
 link: http://icomoon.io/
 description:
 keywords:

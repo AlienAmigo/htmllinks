@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Iconizr — оптимизация и использование SVG
-category: svg, generators, services, picture-generators, manuals
-tags: png, svg, генератор, иконка, спрайт
+category: [svg, generators, services, picture-generators, manuals]
+tags: [png, svg, генератор, иконка, спрайт]
 link: http://iconizr.com/
 description:
 keywords:

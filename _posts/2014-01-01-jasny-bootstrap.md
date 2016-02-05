@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jasny Bootstrap
-category: bootstrap, frameworks
-tags: bootstrap, форк, фреймворк
+category: [bootstrap, frameworks]
+tags: [bootstrap, форк, фреймворк]
 link:
 description:
 keywords:

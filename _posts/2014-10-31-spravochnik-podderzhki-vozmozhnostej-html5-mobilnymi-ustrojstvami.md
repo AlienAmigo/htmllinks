@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Справочник поддержки возможностей HTML5 мобильными устройствами
-category: reference, guides
-tags: мобильное устройство, планшет, поддержка, смартфон, справочник, телефон, электронная книга
+category: [reference, guides]
+tags: [мобильное устройство, планшет, поддержка, смартфон, справочник, телефон, электронная книга]
 link: http://mobilehtml5.org/
 description:
 keywords:

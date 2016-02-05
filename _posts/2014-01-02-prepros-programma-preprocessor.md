@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PrePros — программа-препроцессор
-category: preprocessors, other, editors
-tags: coffeescript, haml, jade, less, livereload, livescript, markdown, sass, scss, slim, stylus, компилятор, компиляция, препроцессор, программа
+category: [preprocessors, other, editors]
+tags: [coffeescript, haml, jade, less, livereload, livescript, markdown, sass, scss, slim, stylus, компилятор, компиляция, препроцессор, программа]
 link: http://alphapixels.com/prepros/
 description:
 keywords:

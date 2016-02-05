@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Red Pen — рецензирование макетов/эскизов
-category: prototype, services
-tags: изображение, картинка, макет, отзыв, рецензия, эскиз
+category: [prototype, services]
+tags: [изображение, картинка, макет, отзыв, рецензия, эскиз]
 link: https://redpen.io/
 description:
 keywords:

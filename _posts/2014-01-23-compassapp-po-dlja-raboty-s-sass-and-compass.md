@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Compass.app — ПО для работы с SASS and Compass
-category: sass, preprocessors, other, editors
-tags: compass, CSS, sass, scss, препроцессор
+category: [sass, preprocessors, other, editors]
+tags: [compass, CSS, sass, scss, препроцессор]
 link: http://compass.kkbox.com/
 description:
 keywords:

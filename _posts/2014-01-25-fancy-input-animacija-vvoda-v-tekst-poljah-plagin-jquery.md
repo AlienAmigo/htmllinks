@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fancy Input — анимация ввода в текст. полях (плагин jQuery)
-category: jquery, jquery-plugins, frameworks
-tags: css3, input, textarea, анимация, ввод, красота, текст
+category: [jquery, jquery-plugins, frameworks]
+tags: [css3, input, textarea, анимация, ввод, красота, текст]
 link: http://dropthebit.com/demos/fancy_input/fancyInput.html
 description:
 keywords:

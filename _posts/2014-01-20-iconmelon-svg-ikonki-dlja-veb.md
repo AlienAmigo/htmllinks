@@ -1,8 +1,8 @@
 ---
 layout: post
 title: iconmelon — SVG-иконки для веб
-category: icons, services
-tags: svg, вектор, иконка
+category: [icons, services]
+tags: [svg, вектор, иконка]
 link: http://iconmelon.com
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS-нормализатор
-category: recipes-html-css, manuals
-tags: css, reset, нормализатор, сброс
+category: [recipes-html-css, manuals]
+tags: [css, reset, нормализатор, сброс]
 link: http://necolas.github.io/normalize.css/
 description:
 keywords:

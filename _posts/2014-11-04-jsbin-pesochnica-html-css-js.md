@@ -1,8 +1,8 @@
 ---
 layout: post
 title: JS bin — песочница HTML, CSS, JS
-category: sandbox, services
-tags: autoprefixer, bootstrap, emmet, jquery, код, песочница, фреймворк
+category: [sandbox, services]
+tags: [autoprefixer, bootstrap, emmet, jquery, код, песочница, фреймворк]
 link: http://jsbin.com/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: iSpeech — произнесение текста на сайте
-category: other-services, services
-tags: голос, доступность, произнесение, текст, читать
+category: [other-services, services]
+tags: [голос, доступность, произнесение, текст, читать]
 link: http://www.ispeech.org/webapps/webreader
 description:
 keywords:

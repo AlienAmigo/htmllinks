@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cloud im — он-лайн консультрование
-category: tools-webmaster, on-line-consglting
-tags: консультирование, помощь, чат
+category: [tools-webmaster, on-line-consglting]
+tags: [консультирование, помощь, чат]
 link: http://cloudim.ru/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Многослойная система организации CSS
-category: reference, guides
-tags: css, правила, система
+category: [reference, guides]
+tags: [css, правила, система]
 link: http://operatino.github.io/MCSS/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Regex101 — Тестирование регулярных выражений
-category: services, testing
-tags: regxp, проверка, регулярное выражение, тест
+category: [services, testing]
+tags: [regxp, проверка, регулярное выражение, тест]
 link: http://regex101.com/
 description:
 keywords:

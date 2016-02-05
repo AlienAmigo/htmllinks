@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Подборка минималистичных фреймворков для веб-разработки
-category: guides, articles
-tags: .NET, C, CSS, Go, Haskell, Java, JavaScript, JS, Lua, Node.js, Perl, PHP. Python, Ruby, Scala, минимализм, фреймворк
+category: [guides, articles]
+tags: [.NET, C, CSS, Go, Haskell, Java, JavaScript, JS, Lua, Node.js, Perl, PHP. Python, Ruby, Scala, минимализм, фреймворк]
 link: https://github.com/neiesc/ListOfMinimalistFrameworks
 description:
 keywords:

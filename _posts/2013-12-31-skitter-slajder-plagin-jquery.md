@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Skitter — слайдер, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, изображение, плагин, слайдер, фотография
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, изображение, плагин, слайдер, фотография]
 link: http://www.skitter-slider.net/jquery-slider-themes/minimalist
 description:
 keywords:

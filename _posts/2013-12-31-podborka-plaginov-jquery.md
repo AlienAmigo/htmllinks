@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Подборка плагинов jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, плагины, подборка
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, плагины, подборка]
 link: http://jquerylist.com/
 description:
 keywords:

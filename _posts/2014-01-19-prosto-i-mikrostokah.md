@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Просто и микростоках
-category: organization, other
-tags: микросток
+category: [organization, other]
+tags: [микросток]
 link: http://www.microstock.ru/
 description:
 keywords:

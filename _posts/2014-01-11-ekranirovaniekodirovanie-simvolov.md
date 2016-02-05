@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Экранирование/кодирование символов
-category: services
-tags: base64, unicode, url, utf, кодирование, экранирование
+category: [services]
+tags: [base64, unicode, url, utf, кодирование, экранирование]
 link: http://0xcc.net/jsescape/
 description:
 keywords:

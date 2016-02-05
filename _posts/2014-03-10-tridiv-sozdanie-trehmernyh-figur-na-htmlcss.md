@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tridiv — создание трехмерных фигур на HTML+CSS
-category: generators, services, layouts-generators
-tags: 3d, разметка, фигура
+category: [generators, services, layouts-generators]
+tags: [3d, разметка, фигура]
 link: http://tridiv.com/
 description:
 keywords:

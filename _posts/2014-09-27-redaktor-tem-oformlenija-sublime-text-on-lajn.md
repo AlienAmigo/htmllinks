@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Редактор тем оформления Sublime Text он-лайн
-category: editors
-tags: sublime text, генератор, сервис, тема, цвет
+category: [editors]
+tags: [sublime text, генератор, сервис, тема, цвет]
 link: http://tmtheme-editor.herokuapp.com
 description:
 keywords:

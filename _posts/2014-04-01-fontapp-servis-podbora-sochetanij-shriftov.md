@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fontapp — сервис подбора сочетаний шрифтов
-category: services, fonts
-tags: подбор, сервис, сочетание, шрифт
+category: [services, fonts]
+tags: [подбор, сервис, сочетание, шрифт]
 link: http://www.fontapp.org/
 description:
 keywords:

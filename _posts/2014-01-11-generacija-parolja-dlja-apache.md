@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генерация пароля для Apache
-category: generators, services
-tags: Apache, htaccess, htpasswd, доступ, защита, пароль
+category: [generators, services]
+tags: [Apache, htaccess, htpasswd, доступ, защита, пароль]
 link: http://webdevtools.ru/passwd
 description:
 keywords:

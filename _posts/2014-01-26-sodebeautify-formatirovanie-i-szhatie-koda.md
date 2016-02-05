@@ -1,8 +1,8 @@
 ---
 layout: post
 title: СodeBeautify — форматирование и сжатие кода
-category: services, formating
-tags: C#, CSS, HTML, Java, Javascript, JSON, RSS, SQL, XML, обфускация, сжатие, форматирование
+category: [services, formating]
+tags: [C#, CSS, HTML, Java, Javascript, JSON, RSS, SQL, XML, обфускация, сжатие, форматирование]
 link: http://codebeautify.org/
 description:
 keywords:

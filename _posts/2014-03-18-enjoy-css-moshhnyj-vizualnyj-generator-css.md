@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Enjoy CSS — мощный визуальный генератор CSS
-category: css-generators, generators, services
-tags: CSS, генератор, градиент, кнопка, позиционирование, прозрачность, текст, тень, трансформация, цвет
+category: [css-generators, generators, services]
+tags: [CSS, генератор, градиент, кнопка, позиционирование, прозрачность, текст, тень, трансформация, цвет]
 link: http://enjoycss.com/
 description:
 keywords:

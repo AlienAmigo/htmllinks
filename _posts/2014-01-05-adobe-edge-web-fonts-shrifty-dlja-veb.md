@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Adobe Edge Web Fonts — шрифты для веб
-category: services, fonts
-tags: font, шрифт
+category: [services, fonts]
+tags: [font, шрифт]
 link: https://edgewebfonts.adobe.com/index
 description:
 keywords:

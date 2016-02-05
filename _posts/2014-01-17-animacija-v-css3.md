@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Анимация в CSS3
-category: guides, articles
-tags: css3, анимация, статья
+category: [guides, articles]
+tags: [css3, анимация, статья]
 link: http://www.xiper.net/learn/css/css-animation/css3-animation-1.html
 description:
 keywords:

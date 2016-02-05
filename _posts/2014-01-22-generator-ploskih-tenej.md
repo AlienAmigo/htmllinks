@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор плоских теней
-category: css-generators, generators, services
-tags: генератор, плоская тень
+category: [css-generators, generators, services]
+tags: [генератор, плоская тень]
 link: http://sandbox.juan-i.com/longshadows/
 description:
 keywords:

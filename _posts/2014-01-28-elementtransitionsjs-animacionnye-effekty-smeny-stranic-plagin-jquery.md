@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ElementTransitions.js — анимационные эффекты смены страниц (плагин jQuery)
-category: jquery, jquery-plugins, frameworks
-tags: css, jquery, анимация, плагин, слайд, смена
+category: [jquery, jquery-plugins, frameworks]
+tags: [css, jquery, анимация, плагин, слайд, смена]
 link: https://github.com/dan-silver/ElementTransitions.js
 description:
 keywords:

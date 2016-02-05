@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Scout — ПО для работы с SASS and Compass
-category: sass, preprocessors, other, editors
-tags: compass, CSS, sass, scss, препроцессор
+category: [sass, preprocessors, other, editors]
+tags: [compass, CSS, sass, scss, препроцессор]
 link: http://mhs.github.io/scout-app/
 description:
 keywords:

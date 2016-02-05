@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Online Font Converter — конвертер шрифтов для web
-category: services, fonts
-tags: font, web font, webfont, веб шрифт, вебшрифт, генератор, текст, шрифт
+category: [services, fonts]
+tags: [font, web font, webfont, веб шрифт, вебшрифт, генератор, текст, шрифт]
 link: http://onlinefontconverter.com/
 description:
 keywords:

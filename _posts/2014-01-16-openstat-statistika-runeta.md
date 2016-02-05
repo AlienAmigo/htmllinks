@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Openstat — статистика рунета
-category: statistics
-tags: браузер, мобильное устройство, разрешение, статистика
+category: [statistics]
+tags: [браузер, мобильное устройство, разрешение, статистика]
 link: https://www.openstat.ru/counter:meta/trends/report/summary/
 description:
 keywords:

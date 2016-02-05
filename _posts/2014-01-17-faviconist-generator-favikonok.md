@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Faviconist — генератор фавиконок
-category: icons, services
-tags: генератор, иконка
+category: [icons, services]
+tags: [генератор, иконка]
 link: http://faviconist.com/
 description:
 keywords:

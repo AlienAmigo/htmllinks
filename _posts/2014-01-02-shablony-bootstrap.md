@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Шаблоны Bootstrap
-category: bootstrap, frameworks, templates
-tags: bootstrap, тема, тема оформления, шаблон
+category: [bootstrap, frameworks, templates]
+tags: [bootstrap, тема, тема оформления, шаблон]
 link: http://jumpstartthemes.com/themes/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: JSDB.io — огромная библиотека JS-скриптов
-category: recipes-javascript, manuals
-tags: javascript, библиотека, скрипт, фреймворк
+category: [recipes-javascript, manuals]
+tags: [javascript, библиотека, скрипт, фреймворк]
 link: http://www.jsdb.io/
 description:
 keywords:

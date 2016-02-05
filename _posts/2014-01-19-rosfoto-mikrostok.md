@@ -1,8 +1,8 @@
 ---
 layout: post
 title: РосФото микросток
-category: clipart
-tags: вектор, изображение, картинка, клипарт, микросток, Россия, фотография
+category: [clipart]
+tags: [вектор, изображение, картинка, клипарт, микросток, Россия, фотография]
 link: http://www.rosfoto.ru/
 description:
 keywords:

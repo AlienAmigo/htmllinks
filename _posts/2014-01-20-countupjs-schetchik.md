@@ -1,8 +1,8 @@
 ---
 layout: post
 title: countUp.js — счетчик
-category: recipes-javascript, manuals
-tags: javascript, счетчик, цифра, число
+category: [recipes-javascript, manuals]
+tags: [javascript, счетчик, цифра, число]
 link: https://github.com/inorganik/countUp.js
 description:
 keywords:

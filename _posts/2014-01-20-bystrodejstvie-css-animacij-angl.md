@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Быстродействие CSS-анимаций (англ.)
-category: guides, articles
-tags: css, opacity, rotate, scale, translate, анимация, трансформация
+category: [guides, articles]
+tags: [css, opacity, rotate, scale, translate, анимация, трансформация]
 link: http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 description:
 keywords:

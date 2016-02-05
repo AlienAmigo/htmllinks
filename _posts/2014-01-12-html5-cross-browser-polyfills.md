@@ -1,8 +1,8 @@
 ---
 layout: post
 title: HTML5 Cross Browser Polyfills
-category: manuals
-tags: css3, html5, браузер, костыль, полифил
+category: [manuals]
+tags: [css3, html5, браузер, костыль, полифил]
 link: https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Бесплатные материалы с mightydeals.com
-category: clipart
-tags: icon, mock-up, pattern, template, texture, ui kit, бесплатно, иконка, интерфейс, паттерн, текстура, шаблон
+category: [clipart]
+tags: [icon, mock-up, pattern, template, texture, ui kit, бесплатно, иконка, интерфейс, паттерн, текстура, шаблон]
 link: http://www.mightydeals.com/free_stuff
 description:
 keywords:

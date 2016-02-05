@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SVGeneration — генератор изображений (фоновых)
-category: generators, services, picture-generators
-tags: svg, вектор, генератор, изображения, картинка, фон
+category: [generators, services, picture-generators]
+tags: [svg, вектор, генератор, изображения, картинка, фон]
 link: http://www.svgeneration.com/
 description:
 keywords:

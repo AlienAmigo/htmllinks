@@ -1,8 +1,8 @@
 ---
 layout: post
 title: HTML5 Please — поддержка html5 и CSS3 браузерами
-category: reference, guides
-tags: css3, html5, polyfills, поддержка, полифилы, справка
+category: [reference, guides]
+tags: [css3, html5, polyfills, поддержка, полифилы, справка]
 link: http://html5please.com/
 description:
 keywords:

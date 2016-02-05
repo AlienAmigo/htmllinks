@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Flaticon — большая база векторных иконок
-category: icons, services
-tags: вектор, иконка, шрифт
+category: [icons, services]
+tags: [вектор, иконка, шрифт]
 link: http://www.flaticon.com/
 description:
 keywords:

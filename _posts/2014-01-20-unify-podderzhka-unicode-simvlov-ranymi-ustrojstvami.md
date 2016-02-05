@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Unify — поддержка unicode-символов разными устройствами
-category: services, fonts
-tags: unicode, поддержка, символ, устройство
+category: [services, fonts]
+tags: [unicode, поддержка, символ, устройство]
 link: http://unicode.johnholtripley.co.uk/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Иллюстрация разницы «адаптивности» и «отзывчивости»
-category: reference, guides
-tags: адаптивность, верстка, отзывчивость, резина
+category: [reference, guides]
+tags: [адаптивность, верстка, отзывчивость, резина]
 link: http://liquidapsive.com/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Zopim — он-лайн консультирование
-category: tools-webmaster, on-line-consglting
-tags: консультирование, помощь, чат
+category: [tools-webmaster, on-line-consglting]
+tags: [консультирование, помощь, чат]
 link: https://www.zopim.com/?lang=ru
 description:
 keywords:

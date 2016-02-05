@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SVGO GUI — программа для сжатия SVG
-category: organization, other
-tags: SVG, компрессия, оптимизация, программа, сжатие
+category: [organization, other]
+tags: [SVG, компрессия, оптимизация, программа, сжатие]
 link: https://github.com/svg/svgo-gui
 description:
 keywords:

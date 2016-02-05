@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Transparenttextures — коллекция фоновых текстур
-category: css-generators, generators, clipart, services
-tags: генератор, прозрачность, текстура, фон
+category: [css-generators, generators, clipart, services]
+tags: [генератор, прозрачность, текстура, фон]
 link: http://www.transparenttextures.com/
 description:
 keywords:

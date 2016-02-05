@@ -1,8 +1,8 @@
 ---
 layout: post
 title: imagesLoaded — js-проверка загрузки изображений
-category: recipes-javascript, manuals
-tags: javascript, загрузка, изображение, картинка, проверка
+category: [recipes-javascript, manuals]
+tags: [javascript, загрузка, изображение, картинка, проверка]
 link: http://imagesloaded.desandro.com/
 description:
 keywords:

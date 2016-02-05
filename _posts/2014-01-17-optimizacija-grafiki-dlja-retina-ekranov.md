@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Оптимизация графики для Retina-экранов
-category: guides, articles,
-tags: retina, графика, изображение, картинка, фотография,
+category: [guides, articles,]
+tags: [retina, графика, изображение, картинка, фотография,]
 link: http://habrahabr.ru/post/150071/
 description:
 keywords:

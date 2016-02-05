@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SVGmagic — автоматическое преобразование SVG→PNG (плагин jQuery+PHP)
-category: jquery, jquery-plugins, frameworks
-tags: png, svg, конвертер
+category: [jquery, jquery-plugins, frameworks]
+tags: [png, svg, конвертер]
 link: http://svgmagic.bitlabs.nl/
 description:
 keywords:

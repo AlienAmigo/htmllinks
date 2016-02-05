@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Type light — редактор шрифтов
-category: organization, other
-tags: ttf, редактор, шрифт
+category: [organization, other]
+tags: [ttf, редактор, шрифт]
 link: http://www.cr8software.net/typelight.html
 description:
 keywords:

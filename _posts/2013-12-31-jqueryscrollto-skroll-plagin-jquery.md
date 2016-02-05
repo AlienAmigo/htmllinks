@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jQuery.ScrollTo — скролл, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, плагин, прокрутка, скролл
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, плагин, прокрутка, скролл]
 link: http://demos.flesler.com/jquery/scrollTo/
 description:
 keywords:

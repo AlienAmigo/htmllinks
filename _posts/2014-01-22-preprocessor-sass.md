@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Препроцессор SASS
-category: sass, preprocessors
-tags: css, sass, scss, препроцессор
+category: [sass, preprocessors]
+tags: [css, sass, scss, препроцессор]
 link: http://sass-lang.com/
 description:
 keywords:

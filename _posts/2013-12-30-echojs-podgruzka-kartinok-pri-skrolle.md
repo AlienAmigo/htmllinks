@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Echo.js — подгрузка картинок при скролле
-category: recipes-javascript, manuals
-tags: javascript, lazy-loading, загрузка, изображение, картинка, подгрузка, прокрутка, скролл
+category: [recipes-javascript, manuals]
+tags: [javascript, lazy-loading, загрузка, изображение, картинка, подгрузка, прокрутка, скролл]
 link: http://toddmotto.com/labs/echo/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор спрайтов
-category: generators, services, picture-generators
-tags: генератор, спрайт
+category: [generators, services, picture-generators]
+tags: [генератор, спрайт]
 link: http://draeton.github.io/stitches/
 description:
 keywords:

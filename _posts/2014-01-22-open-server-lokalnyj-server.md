@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Open Server — локальный сервер
-category: localhost
-tags: apache, mysql, ngix, php, phpmyadmin, локальный сервер
+category: [localhost]
+tags: [apache, mysql, ngix, php, phpmyadmin, локальный сервер]
 link: http://open-server.ru/
 description:
 keywords:

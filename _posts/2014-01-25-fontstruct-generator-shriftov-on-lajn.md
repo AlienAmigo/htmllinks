@@ -1,8 +1,8 @@
 ---
 layout: post
 title: fontstruct — генератор шрифтов он-лайн
-category: services, fonts
-tags: генератор, создать, шрифт
+category: [services, fonts]
+tags: [генератор, создать, шрифт]
 link: http://fontstruct.com/
 description:
 keywords:

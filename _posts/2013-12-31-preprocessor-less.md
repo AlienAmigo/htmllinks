@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Препроцессор LESS
-category: less, preprocessors
-tags: CSS, less, препроцессор
+category: [less, preprocessors]
+tags: [CSS, less, препроцессор]
 link: http://lesscss.org/
 description:
 keywords:

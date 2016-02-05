@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Timer Tab — вкладка-таймер
-category: organization, other
-tags: будильник, время, интервал, период, секундомер, учет
+category: [organization, other]
+tags: [будильник, время, интервал, период, секундомер, учет]
 link: http://www.timer-tab.com/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SoFresh — автообновление CSS
-category: organization, other
-tags: css, автообновление
+category: [organization, other]
+tags: [css, автообновление]
 link: http://sofresh.redpik.net/
 description:
 keywords:

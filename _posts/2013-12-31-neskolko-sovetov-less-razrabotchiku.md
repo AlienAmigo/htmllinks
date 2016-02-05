@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Несколько советов LESS-разработчику
-category: less, guides, articles
-tags: less, правила, совет
+category: [less, guides, articles]
+tags: [less, правила, совет]
 link: http://habrahabr.ru/post/196190/
 description:
 keywords:

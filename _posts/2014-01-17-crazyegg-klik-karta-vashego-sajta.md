@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Crazyegg — клик-карта Вашего сайта
-category:
-tags: click, клик-карта
+category: [tags: [click, клик-карта]]
 link: http://www.crazyegg.com/
 description:
 keywords:

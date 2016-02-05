@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Magnifier.js — эффект лупы
-category: recipes-javascript, manuals
-tags: javascript, изображение, картинка, лупа, увеличение, фотография
+category: [recipes-javascript, manuals]
+tags: [javascript, изображение, картинка, лупа, увеличение, фотография]
 link: https://github.com/mark-rolich/Magnifier.js
 description:
 keywords:

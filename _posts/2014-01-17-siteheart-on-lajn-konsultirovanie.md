@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Siteheart — он-лайн консультирование
-category: tools-webmaster, on-line-consglting
-tags: консультирование, помощь, чат
+category: [tools-webmaster, on-line-consglting]
+tags: [консультирование, помощь, чат]
 link: http://siteheart.com/ru
 description:
 keywords:

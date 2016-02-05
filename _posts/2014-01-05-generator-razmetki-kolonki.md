@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор разметки (колонки)
-category: generators, services, layouts-generators
-tags: layout, генератор, колонка, разметка
+category: [generators, services, layouts-generators]
+tags: [layout, генератор, колонка, разметка]
 link: http://www.pagecolumn.com/
 description:
 keywords:

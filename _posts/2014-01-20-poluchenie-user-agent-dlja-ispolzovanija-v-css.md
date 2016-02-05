@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Получение User Agent для использования в CSS
-category: recipes-html-css, recipes-javascript, manuals
-tags: css, javascript, user agent, браузер, хак
+category: [recipes-html-css, recipes-javascript, manuals]
+tags: [css, javascript, user agent, браузер, хак]
 link: http://rog.ie/blog/html5-boilerplate-addon
 description:
 keywords:

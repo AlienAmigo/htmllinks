@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Магия CSS
-category: guides, ecole
-tags: css, обучение, стиль
+category: [guides, ecole]
+tags: [css, обучение, стиль]
 link: http://adamschwartz.co/magic-of-css/
 description:
 keywords:

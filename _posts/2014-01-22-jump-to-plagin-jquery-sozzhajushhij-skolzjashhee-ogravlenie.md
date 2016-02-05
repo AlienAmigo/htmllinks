@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jump To — скользящее оглавление, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, оглавление, переход, плагин, прокрутка, скролл, текст
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, оглавление, переход, плагин, прокрутка, скролл, текст]
 link: https://github.com/peachananr/jumpto
 description:
 keywords:

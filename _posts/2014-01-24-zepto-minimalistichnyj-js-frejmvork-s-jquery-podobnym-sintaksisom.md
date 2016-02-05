@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Zepto — минималистичный JS-фреймворк с jQuery-подобным синтаксисом
-category: frameworks
-tags: javascript, jQuery, фреймворк
+category: [frameworks]
+tags: [javascript, jQuery, фреймворк]
 link: http://zeptojs.com/
 description:
 keywords:

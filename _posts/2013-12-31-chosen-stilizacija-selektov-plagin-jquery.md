@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Chosen — стилизация селектов, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, select, мультиселект, плагин, селектбокс, стилизация
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, select, мультиселект, плагин, селектбокс, стилизация]
 link: http://harvesthq.github.io/chosen/#multiple-select
 description:
 keywords:

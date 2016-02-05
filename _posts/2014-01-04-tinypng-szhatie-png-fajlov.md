@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TinyPNG — сжатие PNG-файлов
-category: graphics, services
-tags: png, верстка, графика, изображения, нарезка, сжатие
+category: [graphics, services]
+tags: [png, верстка, графика, изображения, нарезка, сжатие]
 link: https://tinypng.com/
 description:
 keywords:

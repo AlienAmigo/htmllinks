@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Compass — SASS-фреймворк
-category: sass, preprocessors, frameworks
-tags: compass, CSS, sass, scss, препроцессор
+category: [sass, preprocessors, frameworks]
+tags: [compass, CSS, sass, scss, препроцессор]
 link: http://compass-style.org/
 description:
 keywords:

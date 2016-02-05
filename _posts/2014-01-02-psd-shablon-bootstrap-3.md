@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PSD-шаблон Bootstrap 3
-category: bootstrap, frameworks, templates
-tags: bootstrap, photoshop, psd, оформление, стилизация, тема, шаблон
+category: [bootstrap, frameworks, templates]
+tags: [bootstrap, photoshop, psd, оформление, стилизация, тема, шаблон]
 link: http://www.designshock.com/bootstrap-3-psd/
 description:
 keywords:

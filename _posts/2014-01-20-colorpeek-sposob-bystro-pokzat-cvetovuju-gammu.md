@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Colorpeek — способ быстро покзать цветовую гамму
-category: other-services, services
-tags: HEX, HSL, PGB, гамма, комбинация цветов, цвет
+category: [other-services, services]
+tags: [HEX, HSL, PGB, гамма, комбинация цветов, цвет]
 link: http://colorpeek.com/
 description:
 keywords:

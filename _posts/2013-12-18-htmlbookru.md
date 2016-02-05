@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Справочник верстальщика
-category: reference, guides
-tags: css, html, обучение, справочник
+category: [reference, guides]
+tags: [css, html, обучение, справочник]
 link: http://htmlbook.ru/
 description:
 keywords:

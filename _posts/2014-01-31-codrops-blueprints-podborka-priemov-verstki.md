@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Codrops Blueprints — подборка приемов верстки
-category: guides, articles
-tags: css, html, js, верстка, прием, сниппет
+category: [guides, articles]
+tags: [css, html, js, верстка, прием, сниппет]
 link: http://tympanus.net/codrops/category/blueprints/
 description:
 keywords:

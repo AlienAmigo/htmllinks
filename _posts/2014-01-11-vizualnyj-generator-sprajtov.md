@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Визуальный генератор спрайтов
-category: generators, graphics, services, picture-generators
-tags: css, визуально, генератор, спрайт
+category: [generators, graphics, services, picture-generators]
+tags: [css, визуально, генератор, спрайт]
 link: http://spritepad.wearekiss.com
 description:
 keywords:

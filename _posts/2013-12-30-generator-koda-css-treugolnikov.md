@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор кода CSS-треугольников
-category: css-generators, generators, services
-tags: CSS, генератор, треугольник
+category: [css-generators, generators, services]
+tags: [CSS, генератор, треугольник]
 link: http://apps.eky.hk/css-triangle-generator/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Olark — он-лайн консультирование
-category: tools-webmaster, on-line-consglting
-tags: консультирование, помощь, чат
+category: [tools-webmaster, on-line-consglting]
+tags: [консультирование, помощь, чат]
 link: http://www.olark.com/
 description:
 keywords:

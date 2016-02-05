@@ -1,8 +1,8 @@
 ---
 layout: post
 title: prettyPhoto — галерея, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, lightbox, видео, галерея, изображения, картинки, плагин, фотографии
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, lightbox, видео, галерея, изображения, картинки, плагин, фотографии]
 link: http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/#
 description:
 keywords:

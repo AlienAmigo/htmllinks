@@ -1,8 +1,8 @@
 ---
 layout: post
 title: We Love Icon Fonts — хостинг иконочных шрифтов (только для эскизов!)
-category: icons, services, fonts
-tags: иконка, подключить, хостинг, шрифт
+category: [icons, services, fonts]
+tags: [иконка, подключить, хостинг, шрифт]
 link: http://weloveiconfonts.com/
 description:
 keywords:

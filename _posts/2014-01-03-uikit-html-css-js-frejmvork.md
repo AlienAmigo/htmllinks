@@ -1,8 +1,8 @@
 ---
 layout: post
 title: UIkit — html-css-js-фреймворк
-category: frameworks
-tags: less, uikit, фреймворк
+category: [frameworks]
+tags: [less, uikit, фреймворк]
 link: http://www.getuikit.com
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Stylus — пропроцессор CSS
-category: stylus, preprocessors
-tags: CSS, stylus, препроцессор
+category: [stylus, preprocessors]
+tags: [CSS, stylus, препроцессор]
 link: http://learnboost.github.io/stylus/
 description:
 keywords:

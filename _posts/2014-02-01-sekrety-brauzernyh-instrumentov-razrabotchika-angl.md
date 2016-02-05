@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Секреты браузерных инструментов разработчика (англ.)
-category: guides, articles
-tags: инструменты разработчика, секрет
+category: [guides, articles]
+tags: [инструменты разработчика, секрет]
 link: http://devtoolsecrets.com/
 description:
 keywords:

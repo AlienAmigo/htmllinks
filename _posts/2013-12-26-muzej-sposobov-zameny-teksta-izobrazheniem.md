@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Музей способов замены текста изображением
-category: manuals
-tags: замена, изображение, картинка, музей, текст
+category: [manuals]
+tags: [замена, изображение, картинка, музей, текст]
 link: http://css-tricks.com/examples/ImageReplacement/
 description:
 keywords:

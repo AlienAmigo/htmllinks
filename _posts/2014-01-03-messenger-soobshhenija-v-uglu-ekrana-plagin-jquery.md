@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Messenger — сообщения в углу экрана, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: alert, bootstrap, jquery, плагин, сообщение
+category: [jquery, jquery-plugins, frameworks]
+tags: [alert, bootstrap, jquery, плагин, сообщение]
 link: https://github.com/HubSpot/messenger
 description:
 keywords:

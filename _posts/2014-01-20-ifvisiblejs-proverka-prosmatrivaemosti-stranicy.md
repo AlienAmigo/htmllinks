@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ifvisible.js — проверка просматриваемости страницы
-category: recipes-javascript, manuals
-tags: javascript, активность, посетитель, просмотр, сделение, страница
+category: [recipes-javascript, manuals]
+tags: [javascript, активность, посетитель, просмотр, сделение, страница]
 link: https://github.com/serkanyersen/ifvisible.js
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Shapecatcher — распознание unicode-символа
-category: services, fonts
-tags: unicode, распознавание, символ
+category: [services, fonts]
+tags: [unicode, распознавание, символ]
 link: http://shapecatcher.com/
 description:
 keywords:

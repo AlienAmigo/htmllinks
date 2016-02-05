@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  GSAP (GreenSock Animation Platform) — библиотека для анимации
-category: recipes-javascript, manuals
-tags: gasp, javascript, анимация
+category: [recipes-javascript, manuals]
+tags: [gasp, javascript, анимация]
 link: http://www.greensock.com/gsap-js/
 description:
 keywords:

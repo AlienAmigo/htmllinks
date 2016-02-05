@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kraken.io — оптимизация графики
-category: graphics, services
-tags: графика, изображение, оптимизация, сжатие, фотография
+category: [graphics, services]
+tags: [графика, изображение, оптимизация, сжатие, фотография]
 link: https://kraken.io/web-interface
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Типограф Муравьёва
-category: tools-webmaster, web-master-other, other-services, services
-tags: правило, текст, типограф, форматирование
+category: [tools-webmaster, web-master-other, other-services, services]
+tags: [правило, текст, типограф, форматирование]
 link: http://mdash.ru/
 description:
 keywords:

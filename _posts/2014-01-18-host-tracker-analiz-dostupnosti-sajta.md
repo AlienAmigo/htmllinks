@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Host tracker — анализ доступности сайта
-category: tools-webmaster, analytics
-tags: доступность, мониторинг, проверка, сайт
+category: [tools-webmaster, analytics]
+tags: [доступность, мониторинг, проверка, сайт]
 link: http://www.host-tracker.com/
 description:
 keywords:

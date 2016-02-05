@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Темы для Bootstrap
-category: bootstrap, frameworks, templates
-tags: bootstrap, оформление, тема
+category: [bootstrap, frameworks, templates]
+tags: [bootstrap, оформление, тема]
 link: http://www.blacktie.co/
 description:
 keywords:

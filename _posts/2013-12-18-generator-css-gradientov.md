@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор CSS-градиентов
-category: css-generators, generators, services
-tags: css3, gradient, генератор, градиент
+category: [css-generators, generators, services]
+tags: [css3, gradient, генератор, градиент]
 link: http://www.colorzilla.com/gradient-editor/
 description:
 keywords:

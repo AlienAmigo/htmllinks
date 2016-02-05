@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Фреймворк Bootstrap — версия на SASS
-category: bootstrap, frameworks
-tags: bootstrap, sass
+category: [bootstrap, frameworks]
+tags: [bootstrap, sass]
 link: https://github.com/twbs/bootstrap-sass
 description:
 keywords:

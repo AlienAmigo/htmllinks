@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Блочные модели
-category: generators, services, layouts-generators
-tags: колонка, макет, разметка
+category: [generators, services, layouts-generators]
+tags: [колонка, макет, разметка]
 link: http://blog.html.it/layoutgala/
 description:
 keywords:

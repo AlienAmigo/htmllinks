@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ZorroSVG — преобразование PNG24 в SVG
-category: graphics, converter, services
-tags: jpeg, png, svg, конвертер, маска, оптимизация, прозрачность, сервис, сжатие, экономия
+category: [graphics, converter, services]
+tags: [jpeg, png, svg, конвертер, маска, оптимизация, прозрачность, сервис, сжатие, экономия]
 link: http://quasimondo.com/ZorroSVG/
 description:
 keywords:

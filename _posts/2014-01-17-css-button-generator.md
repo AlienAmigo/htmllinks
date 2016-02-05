@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS Button Generator
-category: css-generators, generators, services
-tags: css, генератор, кнопка
+category: [css-generators, generators, services]
+tags: [css, генератор, кнопка]
 link: http://css3buttongenerator.com/
 description:
 keywords:

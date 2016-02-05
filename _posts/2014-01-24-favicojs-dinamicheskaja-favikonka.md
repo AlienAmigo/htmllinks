@@ -1,8 +1,8 @@
 ---
 layout: post
 title: favico.js — динамическая фавиконка
-category: recipes-javascript, icons, services, manuals
-tags: favicon, фавиконка
+category: [recipes-javascript, icons, services, manuals]
+tags: [favicon, фавиконка]
 link: http://lab.ejci.net/favico.js/
 description:
 keywords:

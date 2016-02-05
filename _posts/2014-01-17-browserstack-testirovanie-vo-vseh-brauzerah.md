@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Browserstack — тестирование во всех браузерах
-category: services, testing
-tags: chrome, firefox, internet explorer, ipad, iphone, opera, адаптивность, браузер, кроссбраузерность, тестирование
+category: [services, testing]
+tags: [chrome, firefox, internet explorer, ipad, iphone, opera, адаптивность, браузер, кроссбраузерность, тестирование]
 link: https://www.browserstack.com
 description:
 keywords:

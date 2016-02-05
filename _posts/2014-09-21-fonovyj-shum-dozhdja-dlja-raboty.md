@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Фоновый шум дождя для работы
-category: inspiration, other
-tags: гроза, дождь, организация, работа, таймер, фон, шум
+category: [inspiration, other]
+tags: [гроза, дождь, организация, работа, таймер, фон, шум]
 link: http://raining.fm
 description:
 keywords:

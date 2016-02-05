@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Что такое LESS
-category: less, preprocessors, guides, articles
-tags: less, препроцессор, статья
+category: [less, preprocessors, guides, articles]
+tags: [less, препроцессор, статья]
 link: http://habrahabr.ru/post/136525/
 description:
 keywords:

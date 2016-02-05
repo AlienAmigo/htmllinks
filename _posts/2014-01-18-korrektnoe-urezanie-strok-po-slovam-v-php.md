@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Корректное урезание строк по словам в PHP
-category: recipes-php, manuals
-tags: обрезание, обрезка, подрезка, слово, функция
+category: [recipes-php, manuals]
+tags: [обрезание, обрезка, подрезка, слово, функция]
 link: http://maxsite.org/page/korrektnoe-urezanie-strok-po-slovam-v-php
 description:
 keywords:

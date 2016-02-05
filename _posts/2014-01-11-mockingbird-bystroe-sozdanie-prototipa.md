@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mockingbird — быстрое создание прототипа
-category: prototype, services
-tags: набросок, прототип, сайт, скетч, эскиз
+category: [prototype, services]
+tags: [набросок, прототип, сайт, скетч, эскиз]
 link: https://gomockingbird.com/mockingbird/
 description:
 keywords:

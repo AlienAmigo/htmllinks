@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Современный учебник JavaScript
-category: reference, guides
-tags: javascript, обучение, учебник
+category: [reference, guides]
+tags: [javascript, обучение, учебник]
 link: http://learn.javascript.ru/
 description:
 keywords:

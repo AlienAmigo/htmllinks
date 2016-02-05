@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Веб-безопасные шрифты
-category: services, reference, guides, fonts
-tags: безопасные шрифты, шрифт
+category: [services, reference, guides, fonts]
+tags: [безопасные шрифты, шрифт]
 link: http://cssfontstack.com/
 description:
 keywords:

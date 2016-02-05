@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Subtle Patterns — фоновые текстуры
-category: graphics, services
-tags: текстура, фон
+category: [graphics, services]
+tags: [текстура, фон]
 link: http://subtlepatterns.com/
 description:
 keywords:

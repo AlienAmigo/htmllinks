@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Orphus — контроль орфографии для сайта
-category: tools-webmaster, web-master-other
-tags: орфография, ошибка, сообщение
+category: [tools-webmaster, web-master-other]
+tags: [орфография, ошибка, сообщение]
 link: http://orphus.ru/
 description:
 keywords:

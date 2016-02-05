@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Initializr — генератор шаблона для верстки
-category: organization, other
-tags: html, генератор, шаблон
+category: [organization, other]
+tags: [html, генератор, шаблон]
 link: http://www.initializr.com/
 description:
 keywords:

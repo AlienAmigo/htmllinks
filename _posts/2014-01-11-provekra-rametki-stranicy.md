@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Провекра раметки страницы
-category: validation, services
-tags: html, w3c, валидация, проверка
+category: [validation, services]
+tags: [html, w3c, валидация, проверка]
 link: http://validator.w3.org/
 description:
 keywords:

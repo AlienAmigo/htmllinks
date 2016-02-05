@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Набор фоновых текстур, сделанных CSS3-градиентами
-category: css-generators, generators, services
-tags: css3, градиент, фон
+category: [css-generators, generators, services]
+tags: [css3, градиент, фон]
 link: http://lea.verou.me/css3patterns/
 description:
 keywords:

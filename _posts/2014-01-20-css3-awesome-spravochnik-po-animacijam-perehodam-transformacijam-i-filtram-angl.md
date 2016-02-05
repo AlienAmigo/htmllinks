@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS3 = Awesome — справочник по анимациям, переходам, трансформациям и фильтрам (англ.)
-category: reference, guides
-tags: Animation, css, Filters, Transforms, Transitions, анимация, кроссбраузерность, переход, поддержка, трансформация, фильтр
+category: [reference, guides]
+tags: [Animation, css, Filters, Transforms, Transitions, анимация, кроссбраузерность, переход, поддержка, трансформация, фильтр]
 link: http://css3.bradshawenterprises.com/
 description:
 keywords:

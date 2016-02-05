@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Solo — органайзер фрилансера
-category: organization, other
-tags: solo, веб-приложение, задача, календарь, контакты, органайзер, проект, учет времени, фриланс
+category: [organization, other]
+tags: [solo, веб-приложение, задача, календарь, контакты, органайзер, проект, учет времени, фриланс]
 link: http://www.getsoloapp.com/
 description:
 keywords:

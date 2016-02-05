@@ -1,8 +1,8 @@
 ---
 layout: post
 title: reveal.js — впечатляющие презентации на html
-category: recipes-javascript, manuals, frameworks
-tags: html, javascript, презентация, слайд
+category: [recipes-javascript, manuals, frameworks]
+tags: [html, javascript, презентация, слайд]
 link: http://lab.hakim.se/reveal-js
 description:
 keywords:

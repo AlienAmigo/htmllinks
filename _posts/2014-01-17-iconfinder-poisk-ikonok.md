@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IconFinder — поиск иконок
-category: icons, services
-tags: иконка, поиск
+category: [icons, services]
+tags: [иконка, поиск]
 link: https://www.iconfinder.com/
 description:
 keywords:

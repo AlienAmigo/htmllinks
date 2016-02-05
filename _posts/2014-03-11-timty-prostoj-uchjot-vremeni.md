@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Timty — простой учёт времени
-category: organization, other
-tags: время, минута, период, слежение, тайм-менеждмент, учет
+category: [organization, other]
+tags: [время, минута, период, слежение, тайм-менеждмент, учет]
 link: http://timty.ru
 description:
 keywords:

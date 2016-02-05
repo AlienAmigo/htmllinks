@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DOM Monster — закладка, тестирующая оптимальность верстки
-category: services, testing
-tags: dom, закладка, оптимальность, тестирование
+category: [services, testing]
+tags: [dom, закладка, оптимальность, тестирование]
 link: http://mir.aculo.us/dom-monster/
 description:
 keywords:

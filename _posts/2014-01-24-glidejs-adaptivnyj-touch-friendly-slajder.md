@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Glide.js — адаптивный touch-friendly слайдер, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, slider, touch, адаптивность, плагин, слайдер, тач
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, slider, touch, адаптивность, плагин, слайдер, тач]
 link: http://jedrzejchalubek.com/glide/
 description:
 keywords:

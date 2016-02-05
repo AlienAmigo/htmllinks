@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Semantic UI — фреймворк для верстки
-category: frameworks
-tags: css, html, less, фреймворк
+category: [frameworks]
+tags: [css, html, less, фреймворк]
 link: http://semantic-ui.com/
 description:
 keywords:

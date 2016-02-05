@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Box-shadow generator — генератор теней блока
-category: css-generators, generators, services
-tags: css, блок, генератор, тень
+category: [css-generators, generators, services]
+tags: [css, блок, генератор, тень]
 link: https://developer.mozilla.org/en-US/docs/Web/CSS/Tools/Box-shadow_generator
 description:
 keywords:

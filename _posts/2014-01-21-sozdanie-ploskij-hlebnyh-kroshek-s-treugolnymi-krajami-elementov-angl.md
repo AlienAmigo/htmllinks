@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Line25 — блог для веб-дизайнеров и технологов (англ.)
-category: guides, blogs
-tags: блог, вдохновение, статья, урок
+category: [guides, blogs]
+tags: [блог, вдохновение, статья, урок]
 link: http://line25.com
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fontastic — генератор иконочного шрифта
-category: icons, services, fonts
-tags: генератор, иконка, иконочный шрифт, шрифт
+category: [icons, services, fonts]
+tags: [генератор, иконка, иконочный шрифт, шрифт]
 link: http://fontastic.me/
 description:
 keywords:

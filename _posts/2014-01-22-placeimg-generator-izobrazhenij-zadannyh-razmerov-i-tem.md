@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PlaceIMG — генератор изображений заданных размеров и тем
-category: generators, services, picture-generators
-tags: генератор, изображение, картинка, сиськи, фотография
+category: [generators, services, picture-generators]
+tags: [генератор, изображение, картинка, сиськи, фотография]
 link: http://placeimg.com/
 description:
 keywords:

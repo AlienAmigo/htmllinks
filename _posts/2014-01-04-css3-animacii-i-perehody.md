@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS3 анимации и переходы
-category: reference, guides
-tags: animation, css3, transform, transition, анимация, переход, трансформация, учебник
+category: [reference, guides]
+tags: [animation, css3, transform, transition, анимация, переход, трансформация, учебник]
 link: http://css3.bradshawenterprises.com/
 description:
 keywords:

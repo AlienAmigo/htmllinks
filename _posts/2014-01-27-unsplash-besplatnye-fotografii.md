@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Unsplash — бесплатные фотографии
-category: clipart
-tags: бесплатно, изображение, картинка, фотография
+category: [clipart]
+tags: [бесплатно, изображение, картинка, фотография]
 link: http://unsplash.com/
 description:
 keywords:

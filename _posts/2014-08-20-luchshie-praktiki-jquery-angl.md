@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Лучшие практики jQuery (англ)
-category: jquery, reference, guides, frameworks
-tags: jquery, лучшая практика
+category: [jquery, reference, guides, frameworks]
+tags: [jquery, лучшая практика]
 link: http://lab.abhinayrathore.com/jquery-standards/
 description:
 keywords:

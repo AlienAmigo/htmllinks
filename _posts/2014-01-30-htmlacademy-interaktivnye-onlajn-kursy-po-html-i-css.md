@@ -1,8 +1,8 @@
 ---
 layout: post
 title: HTMLAcademy — Интерактивные онлайн-курсы по HTML и CSS
-category: guides, ecole
-tags: css, html, обучение, он-лайн, удаленное
+category: [guides, ecole]
+tags: [css, html, обучение, он-лайн, удаленное]
 link: http://htmlacademy.ru/
 description:
 keywords:

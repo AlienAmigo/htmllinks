@@ -1,8 +1,8 @@
 ---
 layout: post
 title: AWWWards — рейтинг-галерея сайтов
-category: other
-tags: дизайн, конкурс, лучший, разработка, рейтинг, сайт, тенденция, типографика
+category: [other]
+tags: [дизайн, конкурс, лучший, разработка, рейтинг, сайт, тенденция, типографика]
 link: http://www.awwwards.com/
 description:
 keywords:

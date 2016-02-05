@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Инструмент сортировки CSS-свойств
-category: other, editors
-tags: css, notepad++, sublime text, сортировка
+category: [other, editors]
+tags: [css, notepad++, sublime text, сортировка]
 link: http://csscomb.ru/
 description:
 keywords:

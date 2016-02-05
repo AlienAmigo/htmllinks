@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MaxSite CMS
-category: cms, maxsite
-tags: cms, codeIgniter, maxsite, wordpress, система управления контентом
+category: [cms, maxsite]
+tags: [cms, codeIgniter, maxsite, wordpress, система управления контентом]
 link: http://max-3000.com/
 description:
 keywords:

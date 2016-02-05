@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Patternify — генератор простых фоновых текстур
-category: css-generators, generators, services
-tags: css, data uri, генератор, залива, паттерн, текстура, фон
+category: [css-generators, generators, services]
+tags: [css, data uri, генератор, залива, паттерн, текстура, фон]
 link: http://www.patternify.com/
 description:
 keywords:

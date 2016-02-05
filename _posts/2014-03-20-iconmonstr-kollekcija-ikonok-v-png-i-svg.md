@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Iconmonstr — коллекция иконок в PNG и SVG
-category: icons, services
-tags: png, svg, вектор, иконка
+category: [icons, services]
+tags: [png, svg, вектор, иконка]
 link: http://iconmonstr.com/
 description:
 keywords:

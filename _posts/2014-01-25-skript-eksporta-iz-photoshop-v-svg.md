@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Скрипт экспорта из Photoshop в SVG
-category: photoshop-plugins, other
-tags: illustrator, photoshop, svg, скрипт, экспорт
+category: [photoshop-plugins, other]
+tags: [illustrator, photoshop, svg, скрипт, экспорт]
 link: http://hackingui.com/design/export-photoshop-layer-to-svg/
 description:
 keywords:

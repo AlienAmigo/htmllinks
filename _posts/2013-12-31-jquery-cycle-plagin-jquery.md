@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jQuery Cycle — плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, плагин, сладйер
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, плагин, сладйер]
 link:
 description:
 keywords:

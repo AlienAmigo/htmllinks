@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Font Dragr — тестирование шрифта для web
-category: services, fonts
-tags: font, веб-шрифт, тестирование, типографика, шрифт
+category: [services, fonts]
+tags: [font, веб-шрифт, тестирование, типографика, шрифт]
 link: http://fontdragr.com/editor
 description:
 keywords:

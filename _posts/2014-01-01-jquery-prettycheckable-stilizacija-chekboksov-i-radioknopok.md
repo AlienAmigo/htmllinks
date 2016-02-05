@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jQuery prettyCheckable — стилизация чекбоксов и радиокнопок
-category: jquery, jquery-plugins, frameworks
-tags: jquery, плагин, радиокнопка, стилизация, флажок, форма, чекбокс
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, плагин, радиокнопка, стилизация, флажок, форма, чекбокс]
 link: http://arthurgouveia.com/prettyCheckable/
 description:
 keywords:

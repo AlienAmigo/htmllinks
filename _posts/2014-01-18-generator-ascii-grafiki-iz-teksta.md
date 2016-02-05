@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор ASCII-графики из текста
-category: services, fonts
-tags: ASCII, генератор, символ, текст
+category: [services, fonts]
+tags: [ASCII, генератор, символ, текст]
 link: http://ascii-arts.org.ua/gen.html
 description:
 keywords:

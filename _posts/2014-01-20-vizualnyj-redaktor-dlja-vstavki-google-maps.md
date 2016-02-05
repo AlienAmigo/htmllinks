@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Визуальный редактор для вставки Google Maps
-category: generators, services, layouts-generators
-tags: google maps, генератор, карта, разметка
+category: [generators, services, layouts-generators]
+tags: [google maps, генератор, карта, разметка]
 link: http://googlemapbuilder.mynameisdonald.com/
 description:
 keywords:

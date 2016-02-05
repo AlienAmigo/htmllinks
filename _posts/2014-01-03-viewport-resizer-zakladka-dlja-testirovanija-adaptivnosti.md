@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Viewport resizer — закладка для тестирования адаптивности
-category: services, testing
-tags: bookmarklet, адаптивность, закладка, тестирование
+category: [services, testing]
+tags: [bookmarklet, адаптивность, закладка, тестирование]
 link: http://lab.maltewassermann.com/viewport-resizer/
 description:
 keywords:

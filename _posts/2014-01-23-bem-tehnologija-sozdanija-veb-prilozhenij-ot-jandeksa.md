@@ -1,8 +1,8 @@
 ---
 layout: post
 title: БЭМ — технология создания веб-приложений от Яндекса
-category: manuals
-tags: бэм
+category: [manuals]
+tags: [бэм]
 link: http://ru.bem.info/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: LESS Hat — огромный набор примесей LESS
-category: less, preprocessors
-tags: less, препроцессор, примеси
+category: [less, preprocessors]
+tags: [less, препроцессор, примеси]
 link: http://lesshat.com/
 description:
 keywords:

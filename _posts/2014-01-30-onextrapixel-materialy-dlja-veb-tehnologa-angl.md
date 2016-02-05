@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Onextrapixel — материалы для веб-технолога (англ.)
-category: clipart, guides, blogs
-tags: вдохновение, иконка, статья, урок, утилита, шрифт
+category: [clipart, guides, blogs]
+tags: [вдохновение, иконка, статья, урок, утилита, шрифт]
 link: http://www.onextrapixel.com/
 description:
 keywords:

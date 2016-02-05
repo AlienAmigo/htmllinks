@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Brackets — редактор кода, написанный для веб-разработчиков
-category: other, editors
-tags: brackets, редактор
+category: [other, editors]
+tags: [brackets, редактор]
 link: http://brackets.io/
 description:
 keywords:

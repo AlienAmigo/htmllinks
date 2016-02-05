@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор favicon
-category: generators, graphics, icons, services, picture-generators
-tags: favicon, icon, анимация, генератор, иконка, фавиконка
+category: [generators, graphics, icons, services, picture-generators]
+tags: [favicon, icon, анимация, генератор, иконка, фавиконка]
 link: http://www.favicon.cc/
 description:
 keywords:

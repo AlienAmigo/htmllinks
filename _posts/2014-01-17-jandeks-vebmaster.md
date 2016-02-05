@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Яндекс-вебмастер
-category: tools-webmaster, analytics
-tags: аналитика, поиск, проверка
+category: [tools-webmaster, analytics]
+tags: [аналитика, поиск, проверка]
 link: http://webmaster.yandex.ru/
 description:
 keywords:

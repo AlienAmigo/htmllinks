@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Proxy 4 free — список анонимайзеров
-category: tools-webmaster, web-master-other
-tags:
-link: http://www.proxy4free.com/
+category: [tools-webmaster, web-master-other]
+tags: [link: http://www.proxy4free.com/]
 description:
 keywords:
 ---

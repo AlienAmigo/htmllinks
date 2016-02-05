@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Все о вертикальном выравнивании (англ.)
-category: guides, articles
-tags: вертикальное выравнивание
+category: [guides, articles]
+tags: [вертикальное выравнивание]
 link: http://codepen.io/shshaw/full/gEiDt
 description:
 keywords:

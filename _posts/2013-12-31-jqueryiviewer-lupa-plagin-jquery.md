@@ -1,8 +1,8 @@
 ---
 layout: post
 title: JQuery.iviewer — «лупа», плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: изображение, картинка, лупа, масштабирование, плагин, прокрутка, рассмотреть, увеличение, уменьшение, фотография
+category: [jquery, jquery-plugins, frameworks]
+tags: [изображение, картинка, лупа, масштабирование, плагин, прокрутка, рассмотреть, увеличение, уменьшение, фотография]
 link: http://test.dpetroff.ru/jquery.iviewer/test/
 description:
 keywords:

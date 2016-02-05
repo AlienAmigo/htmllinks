@@ -1,8 +1,8 @@
 ---
 layout: post
 title: XAMPP — локальный сервер
-category: localhost
-tags: apache, mysql, ngix, perl, php, phpmyadmin, локальный сервер
+category: [localhost]
+tags: [apache, mysql, ngix, perl, php, phpmyadmin, локальный сервер]
 link: http://www.apachefriends.org/en/xampp.html
 description:
 keywords:

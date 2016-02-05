@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Денвер — локальный сервер
-category: localhost
-tags: apache, mysql, ngix, perl, php, phpmyadmin, локальный сервер
+category: [localhost]
+tags: [apache, mysql, ngix, perl, php, phpmyadmin, локальный сервер]
 link: http://www.denwer.ru/
 description:
 keywords:

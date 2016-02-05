@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dropbox — облачное хранение данных
-category: organization, other
-tags: backup, бекап, облако, резервирование, резервное копирование, файл
+category: [organization, other]
+tags: [backup, бекап, облако, резервирование, резервное копирование, файл]
 link: https://www.dropbox.com/
 description:
 keywords:

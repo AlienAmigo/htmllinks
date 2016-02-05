@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Примесь SCSS для создания плоских теней
-category: sass, preprocessors
-tags: scss, миксин, плоская тень, примесь
+category: [sass, preprocessors]
+tags: [scss, миксин, плоская тень, примесь]
 link: http://codepen.io/awesomephant/pen/mAxHz
 description:
 keywords:

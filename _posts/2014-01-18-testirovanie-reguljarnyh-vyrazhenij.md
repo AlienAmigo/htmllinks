@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Тестирование регулярных выражений
-category: services, testing
-tags: regxp, проверка, регулярное выражение, тест
+category: [services, testing]
+tags: [regxp, проверка, регулярное выражение, тест]
 link: http://www.regexr.com/
 description:
 keywords:

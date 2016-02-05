@@ -1,8 +1,8 @@
 ---
 layout: post
 title: p3chat — он-лайн консультирование
-category: tools-webmaster, on-line-consglting
-tags: консультирование, помощь, чат
+category: [tools-webmaster, on-line-consglting]
+tags: [консультирование, помощь, чат]
 link: http://p3chat.ru
 description:
 keywords:

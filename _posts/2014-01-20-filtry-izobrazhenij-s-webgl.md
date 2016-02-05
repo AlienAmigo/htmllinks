@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Фильтры изображений с WebGL
-category: webgl, manuals
-tags: JavaScript, WebGL, изображение, картинка, наложение, фильтр, фотография
+category: [webgl, manuals]
+tags: [JavaScript, WebGL, изображение, картинка, наложение, фильтр, фотография]
 link: http://phoboslab.org/log/2013/11/fast-image-filters-with-webgl
 description:
 keywords:

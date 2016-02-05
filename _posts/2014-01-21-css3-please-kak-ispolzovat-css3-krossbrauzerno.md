@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS3, please! — как использовать CSS3 кроссбраузерно
-category: reference, guides
-tags: css3, браузер, кроссбраузерность, префикс
+category: [reference, guides]
+tags: [css3, браузер, кроссбраузерность, префикс]
 link: http://css3please.com/
 description:
 keywords:

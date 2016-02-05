@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Темы для Bootstrap
-category: bootstrap, frameworks, templates
-tags: bootstrap, template, theme, тема, шаблон
+category: [bootstrap, frameworks, templates]
+tags: [bootstrap, template, theme, тема, шаблон]
 link: http://bootswatch.com/
 description:
 keywords:

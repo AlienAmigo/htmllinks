@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WhatFont — закладка для выяснения шрифта на странице
-category: services, fonts
-tags: интерлиньяж, определить шрифт, размер, текст, шрифт
+category: [services, fonts]
+tags: [интерлиньяж, определить шрифт, размер, текст, шрифт]
 link: http://chengyinliu.com/whatfont.html
 description:
 keywords:

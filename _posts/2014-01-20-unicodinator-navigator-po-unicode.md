@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Unicodinator — навигатор по unicode
-category: usability-and-typography
-tags: unicode, символ
+category: [usability-and-typography]
+tags: [unicode, символ]
 link: http://unicodinator.com/
 description:
 keywords:

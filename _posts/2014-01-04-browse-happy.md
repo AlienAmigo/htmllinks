@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Browse Happy — смени браузер!
-category: other
-tags: chrome, firefox, internet explorer, opera, браузер, выбор
+category: [other]
+tags: [chrome, firefox, internet explorer, opera, браузер, выбор]
 link: http://browsehappy.com/
 description:
 keywords:

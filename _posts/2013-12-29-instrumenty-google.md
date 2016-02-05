@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Инструменты Google
-category: organization, other
-tags: google, office, TODO, документы, задачи, инструменты, календарь, органайзер, переводчик, поиск, почта, презентации, рисунки, таблицы, фриланс
+category: [organization, other]
+tags: [google, office, TODO, документы, задачи, инструменты, календарь, органайзер, переводчик, поиск, почта, презентации, рисунки, таблицы, фриланс]
 link: https://drive.google.com
 description:
 keywords:

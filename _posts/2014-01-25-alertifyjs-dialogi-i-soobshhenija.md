@@ -1,8 +1,8 @@
 ---
 layout: post
 title: alertify.js — диалоги и сообщения
-category: recipes-javascript, manuals
-tags: javascript, диалог, модальное окно, сообщение
+category: [recipes-javascript, manuals]
+tags: [javascript, диалог, модальное окно, сообщение]
 link: http://fabien-d.github.io/alertify.js/
 description:
 keywords:

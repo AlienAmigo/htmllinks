@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ReStable — адаптивные таблицы, плагин jQuery
-category: jquery, jquery-plugins, frameworks
-tags: jquery, адаптивность, плагин, таблица
+category: [jquery, jquery-plugins, frameworks]
+tags: [jquery, адаптивность, плагин, таблица]
 link: http://codeb.it/restable/
 description:
 keywords:

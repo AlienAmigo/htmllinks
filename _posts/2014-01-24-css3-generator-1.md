@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS3-генератор
-category: css-generators, generators, services
-tags: css, sass, генератор
+category: [css-generators, generators, services]
+tags: [css, sass, генератор]
 link: http://www.createcss3.com/
 description:
 keywords:

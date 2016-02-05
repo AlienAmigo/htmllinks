@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Modernizr — тестирование браузера на поддержку технологий
-category: recipes-javascript, manuals
-tags: chrome, css, firefox, internet explorer, opera, safari, браузер, поддержка, проверка, свойство, тестирование
+category: [recipes-javascript, manuals]
+tags: [chrome, css, firefox, internet explorer, opera, safari, браузер, поддержка, проверка, свойство, тестирование]
 link: http://modernizr.com/
 description:
 keywords:

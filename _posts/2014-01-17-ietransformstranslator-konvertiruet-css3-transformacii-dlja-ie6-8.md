@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IETransformsTranslator — конвертирует CSS3 трансформации для IE6-8
-category: converter, services
-tags: css3, filter, internet explorer, transforms, трансформация
+category: [converter, services]
+tags: [css3, filter, internet explorer, transforms, трансформация]
 link: http://www.useragentman.com/IETransformsTranslator/index.html
 description:
 keywords:

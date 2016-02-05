@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CloudConvert — конвернер множества форматов
-category: organization, other
-tags: конвертер, файл, формат
+category: [organization, other]
+tags: [конвертер, файл, формат]
 link: https://cloudconvert.org/
 description:
 keywords:

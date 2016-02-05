@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Правила хорошего тона в «Фотошопе»
-category: reference, guides
-tags: photoshop, дизайн, комильфо, правила, хороший тон
+category: [reference, guides]
+tags: [photoshop, дизайн, комильфо, правила, хороший тон]
 link: http://ilovepsd.ru
 description:
 keywords:

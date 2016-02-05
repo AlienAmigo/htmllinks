@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dirty Markup — форматирование CSS, HTML, JS
-category: services, formating
-tags: оптимизация, форматирование
+category: [services, formating]
+tags: [оптимизация, форматирование]
 link: http://www.dirtymarkup.com/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Головокружительное погружение в БЭМ
-category: guides, articles
-tags: css, бэм, имя, селектор
+category: [guides, articles]
+tags: [css, бэм, имя, селектор]
 link: http://frontender.info/MindBEMding/#golovokruzhitelynoe-pogruzhenie-v-bm
 description:
 keywords:

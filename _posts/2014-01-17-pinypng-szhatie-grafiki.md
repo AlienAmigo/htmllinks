@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PinyPNG — оптимизация графики
-category: graphics, services
-tags: графика, изображение, картинка, оптимизация, сжатие
+category: [graphics, services]
+tags: [графика, изображение, картинка, оптимизация, сжатие]
 link: http://www.punypng.com/
 description:
 keywords:

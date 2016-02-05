@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Graphicburger.com — графические ресурсы
-category: clipart
-tags: background, ui kit, иконка, мокап, текстовой эффект, фон
+category: [clipart]
+tags: [background, ui kit, иконка, мокап, текстовой эффект, фон]
 link: http://graphicburger.com/
 description:
 keywords:

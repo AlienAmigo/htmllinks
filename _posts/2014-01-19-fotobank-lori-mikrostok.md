@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Фотобанк Лори — микросток
-category: clipart
-tags: вектор, изображение, картинка, клипарт, микросток, Россия, фотография
+category: [clipart]
+tags: [вектор, изображение, картинка, клипарт, микросток, Россия, фотография]
 link: http://lori.ru/
 description:
 keywords:

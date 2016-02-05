@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Select2 — стилизация селектов — плагин Bootstrap
-category: bootstrap, bootstrap-plugins, frameworks
-tags: select, мультиселект, плагин, селект, стилизация
+category: [bootstrap, bootstrap-plugins, frameworks]
+tags: [select, мультиселект, плагин, селект, стилизация]
 link: http://ivaynberg.github.io/select2/index.html
 description:
 keywords:

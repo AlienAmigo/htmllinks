@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Blueprint — старый CSS-фреймворк
-category: frameworks
-tags: blueprint, css, фреймворк
+category: [frameworks]
+tags: [blueprint, css, фреймворк]
 link: http://www.blueprintcss.org/
 description:
 keywords:

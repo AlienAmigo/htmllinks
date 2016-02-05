@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Icons8 — набор иконок
-category: icons, services
-tags: иконка, набор
+category: [icons, services]
+tags: [иконка, набор]
 link: http://icons8.com
 description:
 keywords:

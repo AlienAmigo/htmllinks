@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Browser shots — тестирование во всех браузерах
-category: services, testing
-tags: chrome, firefox, internet explorer, opera, браузер, скриншот, тестирование
+category: [services, testing]
+tags: [chrome, firefox, internet explorer, opera, браузер, скриншот, тестирование]
 link: http://browsershots.org/
 description:
 keywords:

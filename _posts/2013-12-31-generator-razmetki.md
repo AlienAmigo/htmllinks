@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Генератор разметки
-category: generators, services, layouts-generators
-tags: bootstrap, генератор, разметка
+category: [generators, services, layouts-generators]
+tags: [bootstrap, генератор, разметка]
 link: http://www.divshot.com/
 description:
 keywords:

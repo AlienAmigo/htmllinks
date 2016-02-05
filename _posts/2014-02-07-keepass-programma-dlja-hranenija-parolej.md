@@ -1,8 +1,8 @@
 ---
 layout: post
 title: KeePass — программа для хранения паролей
-category: organization, other
-tags: безопасность, пароль
+category: [organization, other]
+tags: [безопасность, пароль]
 link: http://keepass.info/
 description:
 keywords:

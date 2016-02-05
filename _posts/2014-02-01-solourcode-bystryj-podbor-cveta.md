@@ -1,8 +1,8 @@
 ---
 layout: post
 title: СolourCode — быстрый подбор цвета
-category: other-services, services
-tags: less, sass, выбор, цвет
+category: [other-services, services]
+tags: [less, sass, выбор, цвет]
 link: http://colourco.de/
 description:
 keywords:

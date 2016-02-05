@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ceaser — генератор CSS3-переходов
-category: css-generators, generators, services
-tags: css3, transition, генератор, переходы
+category: [css-generators, generators, services]
+tags: [css3, transition, генератор, переходы]
 link: http://matthewlein.com/ceaser/
 description:
 keywords:

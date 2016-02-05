@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Вычисление hash по многим алгоритмам
-category: services
-tags: hash, алгоритм, вычисление, хеш
+category: [services]
+tags: [hash, алгоритм, вычисление, хеш]
 link: http://webdevtools.ru/hash
 description:
 keywords:

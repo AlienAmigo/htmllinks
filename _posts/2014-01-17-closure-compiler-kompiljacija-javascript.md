@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Closure compiler — компиляция javascript
-category: services, formating
-tags: javascript, компиляция, оптимизация, сжатие
+category: [services, formating]
+tags: [javascript, компиляция, оптимизация, сжатие]
 link: http://closure-compiler.appspot.com/home
 description:
 keywords:

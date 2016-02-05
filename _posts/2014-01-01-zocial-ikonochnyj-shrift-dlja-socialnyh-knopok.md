@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Zocial — иконочный шрифт для социальных кнопок
-category:
-tags:
-link: http://zocial.smcllns.com/
+category: [tags: [link: http://zocial.smcllns.com/]]
 description:
 keywords:
 ---

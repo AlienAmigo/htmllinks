@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WebFont.ru — каталог веб-шрифтов
-category: services, fonts
-tags: font, веб-шрифт, шрифт
+category: [services, fonts]
+tags: [font, веб-шрифт, шрифт]
 link: http://webfont.ru/
 description:
 keywords:

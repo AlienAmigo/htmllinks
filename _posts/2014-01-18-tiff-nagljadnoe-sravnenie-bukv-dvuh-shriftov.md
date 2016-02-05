@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tiff — наглядное сравнение букв двух шрифтов
-category: services, fonts
-tags: наложение, символ, сравнение, шрифт
+category: [services, fonts]
+tags: [наложение, символ, сравнение, шрифт]
 link: http://tiff.herokuapp.com/
 description:
 keywords:

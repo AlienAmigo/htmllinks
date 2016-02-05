@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Шрифты для Web
-category: services, fonts
-tags: font, шрифт
+category: [services, fonts]
+tags: [font, шрифт]
 link: http://www.google.com/fonts/
 description:
 keywords:

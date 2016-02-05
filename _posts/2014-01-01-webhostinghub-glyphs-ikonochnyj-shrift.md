@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WebHostingHub Glyphs — иконочный шрифт
-category: services, fonts
-tags: иконка, иконочный шрифт, шрифт
+category: [services, fonts]
+tags: [иконка, иконочный шрифт, шрифт]
 link: http://www.webhostinghub.com/glyphs/
 description:
 keywords:

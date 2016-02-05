@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SpriteCow — ручная обработка спрайта
-category: generators, services, picture-generators
-tags: css, генератор, спрайт
+category: [generators, services, picture-generators]
+tags: [css, генератор, спрайт]
 link: http://www.spritecow.com/
 description:
 keywords:

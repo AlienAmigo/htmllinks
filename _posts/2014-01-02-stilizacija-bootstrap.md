@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Стилизация Bootstrap
-category: bootstrap, frameworks
-tags: bootstrap, генератор, стилизация, тема оформления
+category: [bootstrap, frameworks]
+tags: [bootstrap, генератор, стилизация, тема оформления]
 link: http://bootswatchr.com/create
 description:
 keywords:

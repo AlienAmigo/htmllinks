@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bootstro.js — презентации страниц — плагин Bootstrap
-category: bootstrap, bootstrap-plugins, frameworks
-tags: bootstrap, плагин, помощь, презентация
+category: [bootstrap, bootstrap-plugins, frameworks]
+tags: [bootstrap, плагин, помощь, презентация]
 link: http://clu3.github.io/bootstro.js/
 description:
 keywords:

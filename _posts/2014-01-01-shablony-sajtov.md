@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Шаблоны сайтов
-category: templates
-tags: bootstrap, drupal, joomla, tubmlr, wordpress, сайт, шаблон
+category: [templates]
+tags: [bootstrap, drupal, joomla, tubmlr, wordpress, сайт, шаблон]
 link: https://creativemarket.com/themes/popular
 description:
 keywords:

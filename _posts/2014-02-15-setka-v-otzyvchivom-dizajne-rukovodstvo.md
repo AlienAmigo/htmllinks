@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Сетка в отзывчивом дизайне (руководство)
-category: guides, articles
-tags: адаптивность, модульная сетка, отзывчивость
+category: [guides, articles]
+tags: [адаптивность, модульная сетка, отзывчивость]
 link: http://www.adamkaplan.me/grid/
 description:
 keywords:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: specKing — плагин Photoshop для визуального указания параметров слоев
-category: photoshop-plugins, other
-tags: макет, отступ, размер, спецификация, шрифт
+category: [photoshop-plugins, other]
+tags: [макет, отступ, размер, спецификация, шрифт]
 link: http://wuwacorp.com/specking/
 description:
 keywords:
