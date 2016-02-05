@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Документация по jQuery
-category: [docs, guides]
 tags: [jquery, документация, обучение, справочник]
 link: http://jquery.page2page.ru/
 description:

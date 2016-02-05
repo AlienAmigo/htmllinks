@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Фреймворк Bootstrap
-category: [bootstrap, frameworks]
 tags: [bootstrap, less, фреймворк]
 link: http://getbootstrap.com/
 description:

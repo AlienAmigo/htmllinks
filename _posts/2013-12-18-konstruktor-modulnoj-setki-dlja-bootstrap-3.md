@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Конструктор модульной сетки Bootstrap
-category: [generators, services, layouts-generators]
 tags: [bootstrap, grid, конструктор, модульная сетка]
 link: http://jaykanakiya.com/bootstrap-grid-builder/
 description:
