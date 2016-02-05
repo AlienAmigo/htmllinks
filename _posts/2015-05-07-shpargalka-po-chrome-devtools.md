@@ -2,7 +2,7 @@
 layout: post
 title: Шпаргалка по Chrome Devtools
 category: reference, guides
-tags: chrome, devtools, шпаргалка
+tags: [chrome, devtools, шпаргалка]
 link: http://anti-code.com/devtools-cheatsheet/
 description:
 keywords:
