@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Entypo — иконочный шрифт
-category: [tags: [link: http://www.entypo.com/]]
+category:
+tags: [шрифт, иконка]
+link: http://www.entypo.com/
 description:
 keywords:
 ---

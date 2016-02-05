@@ -2,7 +2,8 @@
 layout: post
 title: Колонки одинаковой высоты. Несколько методов
 category: [guides, articles]
-tags: [link: http://css-tricks.com/fluid-width-equal-height-columns/]
+tags: [колонки]
+link: http://css-tricks.com/fluid-width-equal-height-columns/
 description:
 keywords:
 ---
