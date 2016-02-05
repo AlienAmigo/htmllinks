@@ -20,9 +20,7 @@ layout: default
     </p>
   </div>
   <footer class="panel__footer">
-    {% for tag in post.tags %}
-      <span class="tag">{{ tag }}</span>
-    {% endfor %}
+    {{ post.tags }}
   </footer>
 </article>
 {% endfor %}
