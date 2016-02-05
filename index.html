@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<article class="panel" data-id="{{ post.date }}">
+<article class="panel" id="{{ post.url | slice: 3,15 | replace: "/","-" }}_{{ post.date | date: "%y%m%d" }}">
   <header class="panel__header">
     <h1><a href="{{ post.link }}" rel="nofollow">{{ post.title }}</a></h1>
   </header>
@@ -11,9 +11,7 @@ layout: default
     <div class="panel__description">
       {{ post.excerpt }}
     </div>
-    <p class="panel__links">
-      <a href="{{ post.link }}" rel="nofollow">{{ post.link }}</a>
-    </p>
+    <a class="panel__links" href="{{ post.link }}" rel="nofollow">{{ post.link }}</a>
   </div>
   <footer class="panel__footer">
     {% if post.tags %}
