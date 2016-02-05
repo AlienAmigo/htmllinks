@@ -8,9 +8,6 @@ name: htmllinks
 # Short bio or description (displayed in the header)
 description: Ссылки для веб-технолога
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
-
 #
 # Flags below are optional
 #
@@ -53,20 +50,20 @@ baseurl: "http://nicothin.github.io/htmllinks/"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.1.0
+version: v3.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+#gems:
+#  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
 exclude:
