@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Web Components the Right Way — подборка статей по веб-компонентам (англ.)
-category: webcomponents, reference, guides, manuals, 
-tags: Web Components, веб-компоненты, подборка, ссылка, статья, 
+category: webcomponents, reference, guides, manuals
+tags: Web Components, веб-компоненты, подборка, ссылка, статья
 link: https://github.com/mateusortiz/webcomponents-the-right-way
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Категоризироанный список статей по веб-компонентам. Статьи англоязычные.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Animate.css — библиотека CSS-анимаций
-category: recipes-html-css, manuals, 
-tags: css, анимация, 
+category: recipes-html-css, manuals
+tags: css, анимация
 link: https://daneden.me/animate/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Большая библиотека CSS-анимаций для элементов страницы. При скачивании можно выбрать только необходимые анимации.</p>

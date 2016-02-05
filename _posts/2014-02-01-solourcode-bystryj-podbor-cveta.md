@@ -1,11 +1,11 @@
 ---
 layout: post
 title: СolourCode — быстрый подбор цвета
-category: other-services, services, 
-tags: less, sass, выбор, цвет, 
+category: other-services, services
+tags: less, sass, выбор, цвет
 link: http://colourco.de/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис для подбора цветов. Первоначально во вьюпорте один цвет. Перемещая курсор по вертикали меняем яркость, по горизонтали — тон. Клик — фиксация выбранного цвета. Нажимаем на «+» — добавление цвета. Есть несколько «предустановок»: монохромные цвета и несколько вариантов сочетаний по цветовому кругу.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Enigma64 — плагин Photoshop для быстрого экспорта графики
-category: photoshop-plugins, other, 
-tags: photoshop, графика, изображение, оптимизация, плагин, сжатие, фотография, 
+category: photoshop-plugins, other
+tags: photoshop, графика, изображение, оптимизация, плагин, сжатие, фотография
 link: http://getenigma64.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Быстро экспортирует графику (в том числе, в облако), оптимизируя графический файл. Плагин для тех, кому лень записать Actoin для экспорта в одно нажатие кнопки и потом оптимизировать графику на специальных <a href="/search/сжатие+графики">сервисах</a>.</p>

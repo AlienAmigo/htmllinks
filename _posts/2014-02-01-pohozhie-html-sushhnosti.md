@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Похожие HTML-сущности
-category: services, fonts, 
-tags: html, символ, сущность, текст, 
+category: services, fonts
+tags: html, символ, сущность, текст
 link: http://leftlogic.com/projects/entity-lookup
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис поиска похожих HTML_сущностей. Введите в строке поиска знак «больше» или кавычку.</p>

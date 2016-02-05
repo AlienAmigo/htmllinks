@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Генератор разметки
-category: generators, services, layouts-generators, 
-tags: bootstrap, генератор, разметка, 
+category: generators, services, layouts-generators
+tags: bootstrap, генератор, разметка
 link: http://www.divshot.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Генератор разметки страницы для <a href="/search/id2">Bootstrap</a>. Платные тарифные планы, сделан с умом (проекты, командная работа, возможность легко править код страницы.</p>

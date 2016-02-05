@@ -1,11 +1,11 @@
 ---
 layout: post
 title: fontstruct — генератор шрифтов он-лайн
-category: services, fonts, 
-tags: генератор, создать, шрифт, 
+category: services, fonts
+tags: генератор, создать, шрифт
 link: http://fontstruct.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис позволит создать свой шрифт. Поддерживается unicode (можно создавать кириллические и любые другие символы). Ограничен набор элементов из которых предлагается собирать буквы (полноценного редактора кривых нет).</p>

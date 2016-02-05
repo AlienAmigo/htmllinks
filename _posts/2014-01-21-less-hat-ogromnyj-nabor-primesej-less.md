@@ -1,11 +1,11 @@
 ---
 layout: post
 title: LESS Hat — огромный набор примесей LESS
-category: less, preprocessors, 
-tags: less, препроцессор, примеси, 
+category: less, preprocessors
+tags: less, препроцессор, примеси
 link: http://lesshat.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Эпический набор примесей LESS: все, что только возможно и даже больше. Результат работы примесей конфигурируется (можно отключить поддержку старых вебкитов или IE.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Генератор изображений
-category: generators, services, picture-generators, 
-tags: генератор, изображение, картинка, размер, 
+category: generators, services, picture-generators
+tags: генератор, изображение, картинка, размер
 link: http://placehold.it/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Генерирует изображения с написанным на картинке пиксельным размером и, по желанию, произвольным текстом. Цвет, текст, размер — любые. Используйте атрибут src="http://placehold.it/350x150" для вставки картинки 350×150 пикс. </p>

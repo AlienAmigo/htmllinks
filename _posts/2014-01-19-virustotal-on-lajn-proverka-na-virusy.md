@@ -1,11 +1,11 @@
 ---
 layout: post
 title: VirusTotal - он-лайн проверка на вирусы
-category: organization, other, 
-tags: антиаирус, безопасность, проверка, файл, 
+category: organization, other
+tags: антиаирус, безопасность, проверка, файл
 link: https://www.virustotal.com/ru/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис, примающий файл и выдающий результат его проверки множеством разных антивирусов. АПозволяет судить о реальности вирусной угрозы.</p>

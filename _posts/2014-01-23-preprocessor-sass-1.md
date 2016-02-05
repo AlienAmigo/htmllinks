@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Препроцессор SASS
-category: sass, preprocessors, 
-tags: CSS, sass, scss, препроцессор, 
+category: sass, preprocessors
+tags: CSS, sass, scss, препроцессор
 link: http://sass-lang.com/documentation/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Sass — это метаязык на основе CSS, предназначенный для увеличения уровня абстракции CSS кода и упрощения структуры файлов. Добавляет в работу с CSS переменные, вложения, примеси, математические операции, преобразования цветов, циклы, условия.</p>

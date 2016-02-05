@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Trackduck — визуальное рецензирование страниц
-category: organization, other, 
-tags: макет, обмен, отзыв, рецензия, сообщения, страница, 
+category: organization, other
+tags: макет, обмен, отзыв, рецензия, сообщения, страница
 link: http://www.trackduck.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис позволяет визуально оценивать участки страниц сайтов: выделяем участок страницы, комментируем выделенное. </p>

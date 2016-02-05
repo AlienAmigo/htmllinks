@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Typecast — тест-драйв шрифтов
-category: services, fonts, 
-tags: подбор, сервис, типографика, шрифт, 
+category: services, fonts
+tags: подбор, сервис, типографика, шрифт
 link: http://typecast.com
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис для подбора шрифтового оформления текстов. Мнодество шрифтов (с Google, Fonts.com, MyFonts.com и прочих, всего —  более 28 тысяч). Есть несколько шаблонов текстовых фрагментов (заголовок, автор, лид, текст статьи с цитатами и пр.) для экспериментов.</p>

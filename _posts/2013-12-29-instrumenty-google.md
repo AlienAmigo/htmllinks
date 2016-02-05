@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Инструменты Google
-category: organization, other, 
-tags: google, office, TODO, документы, задачи, инструменты, календарь, органайзер, переводчик, поиск, почта, презентации, рисунки, таблицы, фриланс, 
+category: organization, other
+tags: google, office, TODO, документы, задачи, инструменты, календарь, органайзер, переводчик, поиск, почта, презентации, рисунки, таблицы, фриланс
 link: https://drive.google.com
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Отличные инструменты, в том числе, и для верстальщика. Чрезвычайно удобны в организации работы во фрилансе.</p>

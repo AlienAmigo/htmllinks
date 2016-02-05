@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Parfait project — загружаем PSD, получаем CSS слоёв прямо в браузере
-category: css-generators, generators, tools-webmaster, organization, other, editors, services, 
-tags: css, html, psd, верстка, макет, 
+category: css-generators, generators, tools-webmaster, organization, other, editors, services
+tags: css, html, psd, верстка, макет
 link: https://projectparfait.adobe.com
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Новый сервис от компании Adobe. Позволяет получить CSS-сведения о слоях из PSD-макета прямо в браузере.</p>

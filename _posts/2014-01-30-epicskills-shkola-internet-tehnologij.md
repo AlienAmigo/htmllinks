@@ -1,11 +1,11 @@
 ---
 layout: post
 title: EpicSkills — школа интернет-технологий
-category: guides, ecole, 
-tags: CSS, HTML, jQuery, PHP, Wordpress, обучение, 
+category: guides, ecole
+tags: CSS, HTML, jQuery, PHP, Wordpress, обучение
 link: http://epixx.ru/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Школа в Санкт-Петербурге, обучающая созданию сайтов (HTML, CSS, jQuery, PHP, Wordpress), приложений и веб-дизайну.</p>

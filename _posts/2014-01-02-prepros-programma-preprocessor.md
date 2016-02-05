@@ -1,11 +1,11 @@
 ---
 layout: post
 title: PrePros — программа-препроцессор
-category: preprocessors, other, editors, 
-tags: coffeescript, haml, jade, less, livereload, livescript, markdown, sass, scss, slim, stylus, компилятор, компиляция, препроцессор, программа, 
+category: preprocessors, other, editors
+tags: coffeescript, haml, jade, less, livereload, livescript, markdown, sass, scss, slim, stylus, компилятор, компиляция, препроцессор, программа
 link: http://alphapixels.com/prepros/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Компилирует множество метаязыков: <a href="/search/id41">LESS</a>, Sass, SCSS, Stylus, Jade, Slim, Coffeescript, LiveScript, Haml, Markdown. Умеет оптимизировать изображения, делать живую перезагрузку, сжимать JS и CSS-файлы. Умеет делать livereload.</p>

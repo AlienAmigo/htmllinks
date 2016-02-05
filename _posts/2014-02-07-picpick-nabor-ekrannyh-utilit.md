@@ -1,11 +1,11 @@
 ---
 layout: post
 title: PicPick — набор экранных утилит
-category: organization, other, 
-tags: colorpicker, графика, измерение, линейка, лупа, пипетка, угол, экран, 
+category: organization, other
+tags: colorpicker, графика, измерение, линейка, лупа, пипетка, угол, экран
 link: http://www.picpick.org/en/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Определитель цвета, линейка, измеритель расстояний, углов и небольшой графический редактор в одном флаконе. Есть русскоязычный вариант интерфейса.</p>

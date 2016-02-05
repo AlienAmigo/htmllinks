@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Ezgif — обработка и оптимизация GIF
-category: graphics, services, 
-tags: gif, анимация, обработка, оптимиация, 
+category: graphics, services
+tags: gif, анимация, обработка, оптимиация
 link: http://ezgif.com/optimize
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Jy-лайн сервис подрезки, изменения размера, наложения эффектов и оптимизации GIF (анимированных).</p>

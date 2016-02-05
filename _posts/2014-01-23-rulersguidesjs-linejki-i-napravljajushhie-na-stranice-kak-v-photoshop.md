@@ -1,11 +1,11 @@
 ---
 layout: post
 title: RulersGuides.js — линейки и направляющие на странице как в Photoshop
-category: services, testing, 
-tags: закладка, линейка, направляющая, тестирование, 
+category: services, testing
+tags: закладка, линейка, направляющая, тестирование
 link: http://mark-rolich.github.io/RulersGuides.js/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис-закладка: добавляете в панель закладок, нажимаете на целевой странице — появляются линейки, «схватившись» за которые можно добавлять направляющие линии. Можно включить «прилипание» направляющих к HTML-элементам или определенному шагу расстояния.</p>

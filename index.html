@@ -2,17 +2,27 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+{% for post in site.posts %}
+<article class="panel">
+  <header class="panel__header">
+    <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
+    <!-- <p class="categories">
+      <a href="">Справочники, обучение, книги</a>
+      <a href="">Справочники</a>
+    </p> -->
+  </header>
+  <div class="panel__content">
+    <div class="panel__description">
+      {{ content }}
+    </div>
+    <p class="panel__links">
+      <a href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
+    </p>
+  </div>
+  <!-- <footer class="panel__footer">
+    <span class="tag label label-default">chrome</span>
+    <span class="tag label label-default">devtools</span>
+    <span class="tag label label-default">шпаргалка</span>
+  </footer> -->
+</article>
+{% endfor %}

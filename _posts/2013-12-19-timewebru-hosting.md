@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Хостинг
-category: hosting, 
-tags: хороший хостинг, хостинг, 
+category: hosting
+tags: хороший хостинг, хостинг
 link: http://timeweb.ru/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Очень быстро работает в Санкт-Петербурге. Рекомендую.</p>

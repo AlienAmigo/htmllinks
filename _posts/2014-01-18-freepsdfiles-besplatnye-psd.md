@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Freepsdfiles — бесплатные PSD
-category: psd, templates, 
-tags: psd, дизайн, шаблон, 
+category: psd, templates
+tags: psd, дизайн, шаблон
 link: http://freepsdfiles.net/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>пополняемая коллекция бесплатных PSD — элементы дизайна, персонажи, шаблоны сайтов.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Stock XCHNG — бесплатный клипарт
-category: clipart, 
-tags: изображение, картинка, клипарт, фотография, 
+category: clipart
+tags: изображение, картинка, клипарт, фотография
 link: http://www.sxc.hu/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Бесплатный клипарт, хорошая каталогизация. Требует регистрации.</p>

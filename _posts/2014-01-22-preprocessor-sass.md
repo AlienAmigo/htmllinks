@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Препроцессор SASS
-category: sass, preprocessors, 
-tags: css, sass, scss, препроцессор, 
+category: sass, preprocessors
+tags: css, sass, scss, препроцессор
 link: http://sass-lang.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Препроцессор CSS. Позволяет использовать переменные, мат. операции, условия, циклы, примеси, импорт и пр. Компилируется в CSS.</p>

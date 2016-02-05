@@ -1,11 +1,11 @@
 ---
 layout: post
 title: reveal.js — впечатляющие презентации на html
-category: recipes-javascript, manuals, frameworks, 
-tags: html, javascript, презентация, слайд, 
+category: recipes-javascript, manuals, frameworks
+tags: html, javascript, презентация, слайд
 link: http://lab.hakim.se/reveal-js
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Скрипт позволяет создавать впечатляющие презентации на html. Несколько эффектов перехода слайдов, двухмерные переходы (у каждого «корневого» слайда могут быть «потомки»), несколько тем оформления. Не требует других фреймворков.</p>

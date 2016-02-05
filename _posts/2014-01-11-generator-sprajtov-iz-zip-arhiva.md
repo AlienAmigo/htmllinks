@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Генератор спрайтов из zip-архива
-category: generators, graphics, services, picture-generators, 
-tags: css, zip, генератор, изображение, картинка, спрайт, 
+category: generators, graphics, services, picture-generators
+tags: css, zip, генератор, изображение, картинка, спрайт
 link: http://ru.spritegen.website-performance.org/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Русскоязычный сервис, генерирующий спрайт в формате png из загружаемого zip-архива с маленькими изображениями. Множество настроек, имена классов для элементов спрайта строятся на основе имен файлов.</p>

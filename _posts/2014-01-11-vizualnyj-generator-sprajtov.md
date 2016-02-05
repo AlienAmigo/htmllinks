@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Визуальный генератор спрайтов
-category: generators, graphics, services, picture-generators, 
-tags: css, визуально, генератор, спрайт, 
+category: generators, graphics, services, picture-generators
+tags: css, визуально, генератор, спрайт
 link: http://spritepad.wearekiss.com
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис создает картинку спрайт на основе позиционирования пользователя: просто перетаскиваете изображения в рабочую область, позиционируете их на «холсте» (к сожалению, нет запрета пересечения изображений по габариту), сразу видите и картинку, и css-стили (именуются по именам файлов).</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Препроцессор LESS
-category: less, preprocessors, 
-tags: CSS, less, препроцессор, 
+category: less, preprocessors
+tags: CSS, less, препроцессор
 link: http://lesscss.org/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Препроцессор LESS — простой в освоении язык, преобразуемый в CSS. Добавляет в работу с CSS переменные, вложения, примеси, математические операции, преобразования цветов, циклы, условия. Может работать на стороне сервера (компилироваться в CSS) и на стороне клиента (в этом случае, может содержать вставки JS).</p>
@@ -26,7 +26,7 @@ keywords:
     }
   }
 }</pre>
-<p>Будет скопмилировано в:</p> 
+<p>Будет скопмилировано в:</p>
 <pre>/* CSS */
 
 #header h1 {

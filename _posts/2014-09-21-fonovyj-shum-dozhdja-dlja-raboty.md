@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Фоновый шум дождя для работы
-category: inspiration, other, 
-tags: гроза, дождь, организация, работа, таймер, фон, шум, 
+category: inspiration, other
+tags: гроза, дождь, организация, работа, таймер, фон, шум
 link: http://raining.fm
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Простейший сервис, выдающий шум дождя и/или грозы как фоновый звук для работы. Можно поставить обратный таймер «до перерыва».</p>

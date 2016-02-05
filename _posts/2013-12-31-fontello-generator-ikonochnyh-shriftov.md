@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Fontello — генератор иконочных шрифтов
-category: icons, services, fonts, 
-tags: генератор, иконка, иконочный шрифт, шрифт, 
+category: icons, services, fonts
+tags: генератор, иконка, иконочный шрифт, шрифт
 link: http://fontello.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис Fontello — абсолютный фаворит среди генераторов иконочных шрифтов. Выбираем из сотен иконок нужные (есть поиск по названию и меткам (местами — <a href="http://fontello.com/#search=shit">забавно</a>), задаем выбранным иконкам названия CSS-классов и символы в шрифте, скачиваем, подключаем к странице, используем как в демонстрации из скачанного архива.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: TogetherJS — совместная работа над страницей
-category: organization, other, other-services, services, 
-tags: группа, связь, совместная работа, чат, 
+category: organization, other, other-services, services
+tags: группа, связь, совместная работа, чат
 link: https://togetherjs.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Javascript, подключаемый к странице для совместной работы над ней. Участникам не нужно ничего устанавливать, только открыть полученную ссылку. Встроенный аудио-, видео- и текстовой чат, показ курсоров участников, статусы присутствия.</p>

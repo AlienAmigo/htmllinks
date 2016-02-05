@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Использование rem в CSS
-category: guides, articles, 
-tags: less, rem, sass, scss, stylus, 
+category: guides, articles
+tags: less, rem, sass, scss, stylus
 link: http://alwaystwisted.com/post.php?s=2014-01-01-rems-fallbacks-and-support
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Статья об использовании единиц измерения rem в верстке. Приведены способы использования вместе с препроцессорами.</p>
@@ -26,7 +26,7 @@ keywords:
 /* example of usage */
 
 .prose p {
-  .font-size(16);  
+  .font-size(16);
 }
 
 /* example compiled */
@@ -50,7 +50,7 @@ $doc-font-size: 16;
 /* example of usage */
 
 .prose p {
-  @include font-size(16);  
+  @include font-size(16);
 }
 
 /* example compiled */

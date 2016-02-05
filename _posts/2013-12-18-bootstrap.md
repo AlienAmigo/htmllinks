@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Фреймворк Bootstrap
-category: bootstrap, frameworks, 
-tags: bootstrap, less, фреймворк, 
+category: bootstrap, frameworks
+tags: bootstrap, less, фреймворк
 link: http://getbootstrap.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Bootstrap — популярнейший html-css-js-фреймворк, серьезно ускоряющий работу верстальщика. Множество компонентов (модульные сетки, навигация, слайдер, аккордеон, пагинация и пр.)), простое использование, наличие <a href="/search/id41">LESS</a>.</p>

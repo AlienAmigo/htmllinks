@@ -1,11 +1,11 @@
 ---
 layout: post
 title: iSpeech — произнесение текста на сайте
-category: other-services, services, 
-tags: голос, доступность, произнесение, текст, читать, 
+category: other-services, services
+tags: голос, доступность, произнесение, текст, читать
 link: http://www.ispeech.org/webapps/webreader
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Позволяет встроить на сайт возможность произнесения выделенного (или просто указанного) текста. Множество языков (есть русский в мужском и женском вариантах), встаивается javascript-ом, доменозависимо. Бесплатное использование требует ссылки на сайт сервиса.</p>

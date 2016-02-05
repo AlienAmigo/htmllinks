@@ -1,11 +1,11 @@
 ---
 layout: post
 title: iconmelon — SVG-иконки для веб
-category: icons, services, 
-tags: svg, вектор, иконка, 
+category: icons, services
+tags: svg, вектор, иконка
 link: http://iconmelon.com
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис содержит множество наборов векторных иконок, позволяет выбрать нужные и выдает архив с SVG-файлом и примерами использования выбранных иконок. Умеет добавлять в иконкам SVG-фильтры (поддержка которых в браузерах хромает).</p>

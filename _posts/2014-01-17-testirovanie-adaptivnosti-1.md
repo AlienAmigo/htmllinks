@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Тестирование адаптивности
-category: services, testing, 
-tags: адаптивность, тестирование, 
+category: services, testing
+tags: адаптивность, тестирование
 link: http://viewlike.us/index.php
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис показывает тестируемую страницу в заданной ширине вьюпорта. Есть ряд предустановок, ширины для некоторых устройств.</p>

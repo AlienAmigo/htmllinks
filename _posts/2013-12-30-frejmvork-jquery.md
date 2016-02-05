@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Фреймворк jQuery
-category: jquery, frameworks, 
-tags: jquery, фреймворк, 
+category: jquery, frameworks
+tags: jquery, фреймворк
 link: http://jquery.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Быстрый удобный фреймворк. Позволяет легко манипулировать элементами на странице (получать и менять их свойства), делать анимацию, посылать данные на сервер, отслеживать действия пользователя. Огромнейшее количество <a href="/search/%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B+jquery">плагинов</a>.</p>

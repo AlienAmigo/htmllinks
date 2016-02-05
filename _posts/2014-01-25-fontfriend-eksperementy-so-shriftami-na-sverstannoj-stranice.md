@@ -1,11 +1,11 @@
 ---
 layout: post
 title: FontFriend — эксперементы со шрифтами на сверстанной странице
-category: services, fonts, 
-tags: 
+category: services, fonts
+tags:
 link: http://somadesign.ca/projects/fontfriend/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис-закладка, позволяет вживую менять шрифты, размеры, интерлиньях, плотность и пр. для использованных на странице шрифтов.</p>

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Olark — он-лайн консультирование
-category: tools-webmaster, on-line-consglting, 
-tags: консультирование, помощь, чат, 
+category: tools-webmaster, on-line-consglting
+tags: консультирование, помощь, чат
 link: http://www.olark.com/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис позволяет встраивать на страницы систему он-лайн помощи для посетителей (в режиме чата). </p>

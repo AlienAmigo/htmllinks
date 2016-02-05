@@ -1,11 +1,11 @@
 ---
 layout: post
 title: SoFresh — автообновление CSS
-category: organization, other, 
-tags: css, автообновление, 
+category: organization, other
+tags: css, автообновление
 link: http://sofresh.redpik.net/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Сервис-закладка. Добавляем закладку в панель закладок браузера, нажимаем на целевой странице, отмечаем флажками автообновляемые CSS-файлы. Теперь если CSS-файл изменится, изменения сразу будут показаны, без перезагрузки страницы (то есть, к примеру, сохранится позиция скролла).</p>

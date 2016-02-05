@@ -1,11 +1,11 @@
 ---
 layout: post
 title: CSSMatic: Генератор CSS-градиентов
-category: css-generators, generators, services, 
-tags: 
+category: css-generators, generators, services
+tags:
 link: http://www.cssmatic.com/gradient-generator
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Визуальный генератор CSS-градиентов. Выдает кроссбраузерный код, имеет много предустановок. Градиенты горизонтальные, вертикальные, диагональные, радиальные. Есть импорт из CSS. Выдает CSS или SCSS.</p>

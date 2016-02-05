@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Документация по jQuery
-category: docs, guides, 
-tags: jquery, документация, обучение, справочник, 
+category: docs, guides
+tags: jquery, документация, обучение, справочник
 link: http://jquery.page2page.ru/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Русскоязычная документация по <a href="/search/id28">jQuery</a>. Указаны версии фреймворка, в которых появились рассматриваемые функции. Описание событий, селекторов, эффектов и пр. С примерами.</p>

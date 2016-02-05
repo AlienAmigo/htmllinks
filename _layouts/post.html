@@ -2,16 +2,25 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+<article class="panel">
+  <header class="panel__header">
+    <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
+    <!-- <p class="categories">
+      <a href="">Справочники, обучение, книги</a>
+      <a href="">Справочники</a>
+    </p> -->
+  </header>
+  <div class="panel__content">
+    <div class="panel__description">
+      {{ content }}
+    </div>
+    <p class="panel__links">
+      <a href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
+    </p>
   </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+  <!-- <footer class="panel__footer">
+    <span class="tag label label-default">chrome</span>
+    <span class="tag label label-default">devtools</span>
+    <span class="tag label label-default">шпаргалка</span>
+  </footer> -->
 </article>

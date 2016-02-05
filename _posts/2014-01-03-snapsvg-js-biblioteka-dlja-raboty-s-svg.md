@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Snap.svg — JS-библиотека для работы с SVG
-category: svg, manuals, 
-tags: svg, библиотека, 
+category: svg, manuals
+tags: svg, библиотека
 link: http://snapsvg.io/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Мощнейшая библиотека для работы с SVG: рисование, анимация, трансформации, фильтры. Без поддержки старых <s>браузеров</s> Internet Explorer-ов.</p>

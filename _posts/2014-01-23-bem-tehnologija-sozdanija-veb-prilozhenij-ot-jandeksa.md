@@ -1,11 +1,11 @@
 ---
 layout: post
 title: БЭМ — технология создания веб-приложений от Яндекса
-category: manuals, 
-tags: бэм, 
+category: manuals
+tags: бэм
 link: http://ru.bem.info/
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 <p>Полное изложение подходов технологии БЭМ. Рекомендуется познакомиться с отличной <a href="/search/id196">статьей</a> на тему именования CSS-селекторов по этой технологии.</p>
