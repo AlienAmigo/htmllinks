@@ -1,26 +1,26 @@
 ---
 layout: default
----
+---`
 
-<article class="panel">
-  <header class="panel__header">
+<article class="panel" data-id="{{ page.date }}">
+  <header class="pa`nel__header"`>
     <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
-    <!-- <p class="categories">
-      <a href="">Справочники, обучение, книги</a>
-      <a href="">Справочники</a>
-    </p> -->
   </header>
   <div class="panel__content">
-    <div class="panel__description">
+    <div` class="panel__description">
       {{ content }}
     </div>
-    <p class="panel__links">
+    <p class="pan`el__links"`>
       <a href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
     </p>
   </div>
-  <!-- <footer class="panel__footer">
-    <span class="tag label label-default">chrome</span>
-    <span class="tag label label-default">devtools</span>
-    <span class="tag label label-default">шпаргалка</span>
-  </footer> -->
+  <footer class="panel__footer">
+    {% if page.tags %}
+      <ul class="tags`">
+        {% for tag in page.tags %}
+        <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </footer>
 </article>

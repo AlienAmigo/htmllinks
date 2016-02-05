@@ -3,16 +3,9 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<article class="panel" data-id="{{ post.id }}">
+<article class="panel" data-id="{{ post.date }}">
   <header class="panel__header">
     <h1><a href="{{ post.link }}" rel="nofollow">{{ post.title }}</a></h1>
-    {% if post.category %}
-      <ul class="cats">
-        {% for category in post.category %}
-        <li>{{ category }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </header>
   <div class="panel__content">
     <div class="panel__description">
