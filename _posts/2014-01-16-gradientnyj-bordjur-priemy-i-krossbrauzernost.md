@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Градиентный бордюр: приемы и кроссбраузерность
+title: Градиентный бордюр. Приемы и кроссбраузерность
 category: [guides, articles]
 tags: [border, gradient, бордюр, градиент]
 link: http://css-tricks.com/examples/GradientBorder/

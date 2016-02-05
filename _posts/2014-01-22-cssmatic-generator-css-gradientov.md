@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSSMatic: Генератор CSS-градиентов
+title: CSSMatic - Генератор CSS-градиентов
 category: [css-generators, generators, services]
 tags: [link: http://www.cssmatic.com/gradient-generator]
 description:

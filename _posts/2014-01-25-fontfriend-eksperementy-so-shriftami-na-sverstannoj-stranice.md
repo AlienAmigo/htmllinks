@@ -2,7 +2,8 @@
 layout: post
 title: FontFriend — эксперементы со шрифтами на сверстанной странице
 category: [services, fonts]
-tags: [link: http://somadesign.ca/projects/fontfriend/]
+tags: [шрифт, текстирование, песочница, закладка]
+link: http://somadesign.ca/projects/fontfriend/
 description:
 keywords:
 ---
