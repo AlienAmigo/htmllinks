@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="panel" data-id="{{ page.date: "%F" }}">
+<article class="panel" data-id="{{ page.date | date_to_string }}">
   <header class="pa`nel__header"`>
     <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
   </header>
