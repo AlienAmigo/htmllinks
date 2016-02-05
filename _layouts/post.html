@@ -10,15 +10,17 @@ layout: default
     <div class="panel__descr">
       {{ content }}
     </div>
-    <!--<a class="panel__link" href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>-->
+    <div class="panel__link">
+      <a href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
+    </div>
   </div>
-  <!--<footer class="panel__footer">-->
-  <!--  {% if page.tags %}-->
-  <!--    <ul class="tags">-->
-  <!--      {% for tag in page.tags %}-->
-  <!--      <li>{{ tag }}</li>-->
-  <!--      {% endfor %}-->
-  <!--    </ul>-->
-  <!--  {% endif %}-->
-  <!--</footer>-->
+  <footer class="panel__footer">
+    {% if page.tags %}
+      <ul class="tags">
+        {% for tag in page.tags %}
+        <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </footer>
 </article>
