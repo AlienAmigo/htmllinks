@@ -1,0 +1,76 @@
+.content {
+  @media (min-width: $screen-sm) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+}
+
+// Этот ад тут только для экономии размера файла разметки
+
+.l {
+  border: 1px solid $gray-lighter;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 8px 8px -4px rgba(0,0,0,0.1);
+
+  @media (min-width: $screen-sm) {
+    width: 49%;
+
+    &:nth-child(2n) {
+      margin-left: 1%;
+    }
+    &:nth-child(2n - 1) {
+      margin-right: 1%;
+    }
+  }
+
+  &h, &f {
+    padding: .5rem 1rem;
+  }
+
+  &h, &f {
+    background-color: $gray-lightest;
+  }
+
+  &h {
+    border-bottom: 1px solid $gray-lighter;
+
+    h1 {
+      margin: 0;
+      font-size: $font-size-h2;
+      line-height: 1.1;
+    }
+
+    a {
+      color: $gray-darker;
+
+      &:visited {
+        color: $gray;
+      }
+    }
+  }
+
+  &c {
+    background-color: #fff;
+    padding: .7rem 1rem;
+  }
+
+  &f {
+    border-top: 1px solid $gray-lighter;
+  }
+
+  &d {
+    margin-bottom: 1rem;
+  }
+
+  &l {
+    word-wrap: break-word;
+  }
+
+  &t {
+    color: $gray;
+    &:not(:last-child):after {
+      content: ', ';
+    }
+  }
+}

@@ -4,6 +4,7 @@ $gray-dark:                   lighten($gray-base, 20%);
 $gray:                        lighten($gray-base, 33.5%);
 $gray-light:                  lighten($gray-base, 50%);
 $gray-lighter:                #D9D9D9;
+$gray-lightest:               lighten($gray-base, 97%);
 
 $brand-primary:               #428bca;
 $brand-success:               #5cb85c;
@@ -18,12 +19,12 @@ $font-family-sans-serif:      "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:           Georgia, "Times New Roman", Times, serif;
 $font-family-base:            $font-family-sans-serif;
 
-$font-size-base:              14px;
+$font-size-base:              1.2rem;
 $font-size-large:             ceil(($font-size-base * 1.25));
 $font-size-small:             ceil(($font-size-base * 0.85));
 
 $font-size-h1:                floor(($font-size-base * 2.6));
-$font-size-h2:                floor(($font-size-base * 2.15));
+$font-size-h2:                floor(($font-size-base * 2.0));
 $font-size-h3:                ceil(($font-size-base * 1.7));
 $font-size-h4:                ceil(($font-size-base * 1.25));
 $font-size-h5:                $font-size-base;

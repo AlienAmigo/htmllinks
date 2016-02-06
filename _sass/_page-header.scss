@@ -1,10 +1,20 @@
 .page-header {
   text-align: center;
+  margin-bottom: 1.5rem;
 
   p {
-    margin: 0 0 1.5em 0;
-    font-size: $font-size-h3;
+    margin: 0 0 .8em 0;
     text-transform: lowercase;
+    color: $gray-light;
+  }
+
+  .search {
+    width: 100%;
+    margin: auto;
+    max-width: 20rem;
+    padding: .5rem .7rem;
+    border-radius: .2rem;
+    border: 1px solid $gray-darker;
   }
 }
 
@@ -12,7 +22,7 @@
   letter-spacing: -0.02em;
   line-height: 1;
   text-shadow: 1px 1px 0px $gray-base;
-  font-size: ($font-size-base * 6.2);
+  font-size: $font-size-h1;
   margin: .1em 0 0;
 
   a {
@@ -23,12 +33,22 @@
 
 .nav {
   list-style: none;
-  margin: 1em;
-  font-size: $font-size-h3;
+  margin: .7em 0;
+  padding: 0;
   text-transform: lowercase;
 
   li {
+    white-space: nowrap;
     display: inline-block;
-    margin: 0 1.5em;
+    margin: 0 .5em;
+  }
+
+  a {
+    color: $gray-dark;
+    text-decoration: underline;
+
+    &:hover, &:focus {
+      text-decoration: none;
+    }
   }
 }
