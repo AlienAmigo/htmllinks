@@ -24,6 +24,7 @@
     }
   }
 
+
   &h, &f {
     padding: .5rem 1rem;
   }
@@ -45,7 +46,7 @@
       color: $gray-darker;
 
       &:visited {
-        color: $gray;
+        color: $gray-light;
       }
     }
   }

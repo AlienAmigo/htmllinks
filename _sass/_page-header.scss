@@ -25,6 +25,18 @@
   font-size: $font-size-h1;
   margin: .1em 0 0;
 
+  @media (min-width: $screen-sm) {
+    font-size: round($font-size-h1 * 1.2);
+  }
+
+  @media (min-width: $screen-md) {
+    font-size: round($font-size-h1 * 1.4);
+  }
+
+  @media (min-width: $screen-lg) {
+    font-size: round($font-size-h1 * 1.8);
+  }
+
   a {
     color: $gray-light;
     text-decoration: none !important;
