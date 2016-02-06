@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<article class="panel" data-id="{{ page.date }}">
-  <header class="panel__header">
+<article class="l" id="{{ page.url | slice: 3,15 | replace: "/","-" }}_{{ page.date | date: "%y%m%d" }}">
+  <header class="l__hdr">
     <h1><a href="{{ page.link }}" rel="nofollow">{{ page.title }}</a></h1>
   </header>
-  <div class="panel__content">
-    <div class="panel__description">
-      {{ content }}
+  <div class="l__cnt">
+    <div class="l__descr">
+      {{ page.excerpt }}
     </div>
-    <a class="panel__link" href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
+    <a class="l__links" href="{{ page.link }}" rel="nofollow">{{ page.link }}</a>
   </div>
-  <footer class="panel__footer">
+  <footer class="l__ftr">
     {% if page.tags %}
-      <ul class="tags">
+      <ul class="l__tags">
         {% for tag in page.tags %}
         <li>{{ tag }}</li>
         {% endfor %}

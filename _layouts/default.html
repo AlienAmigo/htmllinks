@@ -5,10 +5,10 @@ layout: compress
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 {% include meta.html %}
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
   <body class="page-default">
@@ -16,7 +16,10 @@ layout: compress
       <header class="page-header" id="top_block">
         <h1 class="logo"><a href="{{ site.baseurl }}">htmllinks</a></h1>
         <p>{{ site.description }}</p>
-        <ul class="nav-links">
+        <form>
+          <input type="text" placeholder="Поиск по странице">
+        </form>
+        <ul class="nav">
           <li>
             <a href="{{ site.baseurl }}about">О проекте</a>
           </li>
