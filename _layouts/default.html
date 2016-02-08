@@ -8,47 +8,7 @@ layout: compress
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 {% include meta.html %}
-<link rel="stylesheet" type="text/css" href="style.css">
-<script>
-  document.getElementById('search').focus();
-  document.getElementById('search').addEventListener('keyup',find);
-  document.getElementById('search').addEventListener('change',find);
-  document.getElementById('search').addEventListener('blur',find);
-
-  function find() {
-    var find_text = window.document.getElementById('search').value;
-    var all = document.querySelectorAll('.l');
-    find_text = trim(find_text);
-    if (!find_text) {
-      for(var i=0; i < all.length; i++) {
-        all[i].classList.remove('hidden');
-      }
-      return false;
-    }
-    if (find_text.length < 3) {
-      for(var i=0; i < all.length; i++) {
-        all[i].classList.remove('hidden');
-      }
-      return false;
-    }
-    if (find_text.length >= 3) {
-      var re = new RegExp(find_text, 'i');
-      for(var i=0; i < all.length; i++) {
-        if(!re.test(all[i].innerText)) {
-          all[i].classList.add('hidden');
-        }
-        else {
-          all[i].classList.remove('hidden');
-        }
-      }
-    }
-  }
-
-  function trim(s) {
-       s = s.replace( /^\s+/g, '');
-    return s.replace( /\s+$/g, '');
-  }
-</script>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}style.css">
 </head>
 
   <body class="page-default">
@@ -57,14 +17,14 @@ layout: compress
         <h1 class="logo"><a href="{{ site.baseurl }}">htmllinks</a></h1>
         <p>{{ site.description }}</p>
         <form>
-          <input class="search" id="search" type="text" placeholder="Поиск по странице">
+          <input class="search" id="search" type="search" placeholder="Поиск по странице">
         </form>
         <ul class="nav">
           <li>
-            <a href="{{ site.baseurl }}about">О проекте</a>
+            <a href="/about">О проекте</a>
           </li>
           <li>
-            <a href="{{ site.baseurl }}add">Прислать ссылку</a>
+            <a href="/add">Прислать ссылку</a>
           </li>
         </ul>
       </header>
@@ -79,7 +39,46 @@ layout: compress
 
     </div>
 
-    {% include analytics.html %}
+    <script>
+      document.getElementById('search').focus();
+      document.getElementById('search').addEventListener('keyup',find);
+      document.getElementById('search').addEventListener('change',find);
+      document.getElementById('search').addEventListener('blur',find);
 
+      function find() {
+        var find_text = window.document.getElementById('search').value;
+        var all = document.querySelectorAll('.l');
+        find_text = trim(find_text);
+        if (!find_text) {
+          for(var i=0; i < all.length; i++) {
+            all[i].classList.remove('hidden');
+          }
+          return false;
+        }
+        if (find_text.length < 3) {
+          for(var i=0; i < all.length; i++) {
+            all[i].classList.remove('hidden');
+          }
+          return false;
+        }
+        if (find_text.length >= 3) {
+          var re = new RegExp(find_text, 'i');
+          for(var i=0; i < all.length; i++) {
+            if(!re.test(all[i].innerText)) {
+              all[i].classList.add('hidden');
+            }
+            else {
+              all[i].classList.remove('hidden');
+            }
+          }
+        }
+      }
+
+      function trim(s) {
+           s = s.replace( /^\s+/g, '');
+        return s.replace( /\s+$/g, '');
+      }
+    </script>
+    {% include analytics.html %}
   </body>
 </html>
