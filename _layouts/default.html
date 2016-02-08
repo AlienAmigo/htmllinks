@@ -10,7 +10,6 @@ layout: compress
 {% include meta.html %}
 <link rel="stylesheet" type="text/css" href="style.css">
 <script>
-  // Работа фильтра
   document.getElementById('search').focus();
   document.getElementById('search').addEventListener('keyup',find);
   document.getElementById('search').addEventListener('change',find);
@@ -27,14 +26,12 @@ layout: compress
       }
       return false;
     }
-    // если текст поиска короче 3х символов
     if (find_text.length < 3) {
       for(var i=0; i < all.length; i++) {
         all[i].classList.remove('hidden');
       }
       return false;
     }
-    // текст длиннее 3х символов, ищем
     if (find_text.length >= 3) {
       var re = new RegExp(find_text, 'i');
       for(var i=0; i < all.length; i++) {
@@ -48,7 +45,6 @@ layout: compress
     }
   }
 
-  // Подрезать пробелы нах
   function trim(s) {
        s = s.replace( /^\s+/g, '');
     return s.replace( /\s+$/g, '');
