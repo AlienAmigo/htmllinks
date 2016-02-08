@@ -19,7 +19,6 @@ layout: compress
     var find_text = window.document.getElementById('search').value;
     var all = document.querySelectorAll('.l');
     find_text = trim(find_text);
-    // если нет текста для поиска
     if (!find_text) {
       for(var i=0; i < all.length; i++) {
         all[i].classList.remove('hidden');
