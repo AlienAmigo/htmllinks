@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Новая ссылка. Название
-tags: [новая ссылка, шаблон, подсказка]
+title: HtmlLinks — ссылки для веб-разработчика
+tags: [ссылка, веб-разработчик]
 link: http://nicothin.github.io/htmllinks/
 ---
 
