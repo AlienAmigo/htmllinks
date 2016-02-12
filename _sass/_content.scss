@@ -10,6 +10,36 @@
   display: none;
 }
 
+.page {
+  border: 1px solid $gray-lighter;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 8px 8px -4px rgba(0,0,0,0.1);
+
+  @media (min-width: $screen-md) {
+    width: 50%;
+    margin: auto;
+  }
+
+  &__header {
+    padding: .5rem 1rem;
+    background-color: $gray-lightest;
+    border-bottom: 1px solid $gray-lighter;
+    margin: 0;
+    font-size: $font-size-h1;
+    line-height: 1.1;
+  }
+
+  &__content {
+    background-color: #fff;
+    padding: 1rem;
+  }
+
+  iframe {
+    display: block;
+    margin: 2rem auto 0;
+  }
+}
+
 // Этот ад тут только для экономии размера файла разметки
 
 .l {
@@ -26,9 +56,6 @@
 
   &h, &f {
     padding: .5rem 1rem;
-  }
-
-  &h, &f {
     background-color: $gray-lightest;
   }
 
